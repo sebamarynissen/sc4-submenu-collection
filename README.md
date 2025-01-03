@@ -7,7 +7,10 @@ From then on, a build script takes over and compiles the entire folder structure
 
 ## Adding a new submenu
 
-If you want to add a new submenu, navigate to the appropriate folder, and then create a new folder that starts with 3-digits - which will determine the order of the submenu. *Within* that created folder, you have to create a file called `_menu.yaml`, which at least has to include a `name` field:
+If you want to add a new submenu, navigate to the appropriate folder, and then create a new folder that starts with a hexadecimal 32-bit number - which will determine the order of the submenu.
+If the Item Order is actually negative - meaning all values between `0x80000000` and `0xffffffff`, then the folder should be prefixed with an underscore `_` so that the folder structure matches the menu structure in the game.
+
+*Within* that created folder, you have to create a file called `_menu.yaml`, which at least has to include a `name` field:
 
 ```yaml
 name: Name of the submenu as it appears in game
@@ -15,6 +18,9 @@ name: Name of the submenu as it appears in game
 
 You can optionally specify a `description` and `id` as well.
 However, if you don't specify an id explicitly, then a random id will be assigned at build time, *which will be committed back to the repository*, meaning that once the random id has been generated, it will remain fixed from then on, unless manually changed again in the `_menu.yaml` file.
+
+In the same folder, you should also specify an `_icon.png` file, which contains the icon to use for the menu.
+The icon should be 176x44 pixels, which means that it needs to have the icon templated applied to it already.
 
 ## Adding lots to a submenu
 
