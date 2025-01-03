@@ -38,7 +38,8 @@ Every line should contain exactly *one* Group/Instance pair*, which have to be s
 You can name the file whatever you want, but preferrably you stick to the [sc4pac](https://memo33.github.io/sc4pac/#/) package name if possible.
 For example, if you're creating a submenu for the package `kingofsimcity:sp-modular-parking-base-set`, then it is advised to call the txt file `kingofsimcity.sp-modular-parking-base-set.txt`.
 
-*Note: technically you don't *need* put each pair on a line, just a comma-separated list of numbers will do as well, but it's highly advised to put them on separate lines.
+> [!NOTE]
+> Technically you don't *need* put each pair on a line, just a comma-separated list of numbers will do as well, but it's highly advised to put them on separate lines so that the diffs are clearer when a certain lot is added to or removed from the list.
 
 ## Building locally
 
