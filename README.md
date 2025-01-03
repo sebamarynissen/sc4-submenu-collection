@@ -20,7 +20,7 @@ However, if you don't specify an id explicitly, then a random id will be assigne
 
 Navigate to the submenu folder you want the lots to appear in, and then create a `.txt` file.
 The text file should contain all the [Exemplar Patch Targets](https://github.com/memo33/submenus-dll?tab=readme-ov-file#exemplar-patching) - which are the Group and Instance IDs of a building exemplar.
-Every line should contain exactly *one* Group/Instance pair, which have to be separated by a comma:
+Every line should contain exactly *one* Group/Instance pair*, which have to be separated by a comma:
 
 ```txt
 0x908CD9D2, 0xA485470C
@@ -31,6 +31,8 @@ Every line should contain exactly *one* Group/Instance pair, which have to be se
 
 You can name the file whatever you want, but preferrably you stick to the [sc4pac](https://memo33.github.io/sc4pac/#/) package name if possible.
 For example, if you're creating a submenu for the package `kingofsimcity:sp-modular-parking-base-set`, then it is advised to call the txt file `kingofsimcity.sp-modular-parking-base-set.txt`.
+
+*Note: technically you don't *need* put each pair on a line, just a comma-separated list of numbers will do as well, but it's highly advised to put them on separate lines.
 
 ## Building locally
 
