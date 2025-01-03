@@ -32,6 +32,12 @@ Every line should contain exactly *one* Group/Instance pair, which have to be se
 You can name the file whatever you want, but preferrably you stick to the [sc4pac](https://memo33.github.io/sc4pac/#/) package name if possible.
 For example, if you're creating a submenu for the package `kingofsimcity:sp-modular-parking-base-set`, then it is advised to call the txt file `kingofsimcity.sp-modular-parking-base-set.txt`.
 
+## Building locally
+
+Install [Node.js](https://nodejs.org/en) 22.11 or higher.
+Then, fire up a command prompt in the root folder of this repo and run `npm install`.
+From now on, you can just run `npm run build` to build all the submenus, which will be available in the `/dist` folder.
+
 ## FAQ
 
 ### Can I use the [sc4](https://github.com/sebamarynissen/sc4) cli tool to contribute to this repo?
