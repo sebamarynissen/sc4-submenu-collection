@@ -1,0 +1,36 @@
+{
+  "name": "@sebamarynissen/sc4-submenu-collection",
+  "version": "0.0.1",
+  "description": "A collection of community-curated SimCity 4 submenus",
+  "main": "build/build.js",
+  "engines": {
+    "node": "^22.11"
+  },
+  "scripts": {
+    "build": "node build/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebamarynissen/sc4-submenu-collection.git"
+  },
+  "keywords": [
+    "SimCity",
+    "4"
+  ],
+  "author": "Sebastiaan Marynissen <hello@sebamarynissen.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebamarynissen/sc4-submenu-collection/issues"
+  },
+  "homepage": "https://github.com/sebamarynissen/sc4-submenu-collection#readme",
+  "type": "module",
+  "dependencies": {
+    "glob": "^11.0.0",
+    "sc4": "^0.1.2",
+    "yaml": "^2.7.0"
+  },
+  "devDependencies": {
+    "@whisthub/eslint-config": "^3.1.0",
+    "eslint": "^9.17.0"
+  }
+}
