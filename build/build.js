@@ -30,12 +30,17 @@ await traverse.directories(async (info) => {
 		throw new Error(`${dir} has no parent menu!`);
 	}
 
+	// Determine the order from the folder name.
+	let dirname = path.basename(dir).replace(/^[-_]/, '');
+	let [order] = dirname.split('-');
+
 	// Generate the actual menu button now.
 	let { dbpf } = await createSubmenuButton({
 		name: menu.name,
 		description: menu.description,
 		buttonId: menu.id,
 		parent: parent.id,
+		order: +order,
 		icon,
 	});
 	let slug = slugify(menu.name);
