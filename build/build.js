@@ -33,7 +33,7 @@ await traverse.directories(async (info) => {
 	// Generate the actual menu button now.
 	let { dbpf } = await createSubmenuButton({
 		name: menu.name,
-		description: '',
+		description: menu.description,
 		buttonId: menu.id,
 		parent: parent.id,
 		icon,
@@ -46,7 +46,7 @@ await traverse.directories(async (info) => {
 
 // # createPatches()
 // Creates the Exemplar patch dbpfs.
-async function createPatches({ dir, menu, parent, icon, files }) {
+async function createPatches({ dir, menu, files }) {
 	for (let file of files) {
 		let contents = String(await fs.promises.readFile(path.join(dir, file)));
 		let gis = contents
