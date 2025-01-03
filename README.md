@@ -30,7 +30,7 @@ Every line should contain exactly *one* Group/Instance pair, which have to be se
 ```
 
 You can name the file whatever you want, but preferrably you stick to the [sc4pac](https://memo33.github.io/sc4pac/#/) package name if possible.
-For example, if you're creating a submenu for the package `kingofsimcity:sp-modular-parking-base-set`, then it is advised to call the txt file `kingofsimcity-sp-modular-parking-base-set`.
+For example, if you're creating a submenu for the package `kingofsimcity:sp-modular-parking-base-set`, then it is advised to call the txt file `kingofsimcity.sp-modular-parking-base-set.txt`.
 
 ## FAQ
 
