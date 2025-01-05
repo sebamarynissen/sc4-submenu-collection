@@ -2,10 +2,8 @@
 import path from 'node:path';
 import fs from 'node:fs';
 import * as traverse from './traversers.js';
-import createSubmenuButton from 'sc4/api/create-submenu-button.js';
-import { DBPF, Cohort, ExemplarProperty, FileType } from 'sc4/core';
-import { randomId } from 'sc4/utils';
 import builtinMenus from './builtins.js';
+import { createSubmenuButton, createSubmenuPatch } from 'sc4/plugins';
 
 // Create & clear dist folder.
 const dist = path.resolve(import.meta.dirname, '../dist');
@@ -54,7 +52,7 @@ await traverse.directories(async (info) => {
 async function createPatches({ dir, menu, files }) {
 	for (let file of files) {
 		let contents = String(await fs.promises.readFile(path.join(dir, file)));
-		let gis = contents
+		let targets = contents
 			.split('\n')
 			.map(x => x.trim())
 			.map(line => {
@@ -63,22 +61,14 @@ async function createPatches({ dir, menu, files }) {
 			})
 			.flat();
 
-		// Create a fresh Cohort file and add the Exemplar Patch Targets 
-		// (0x0062e78a) and Building Submenus (0xAA1DD399)
-		let cohort = new Cohort();
-		cohort.addProperty(ExemplarProperty.ExemplarPatchTargets, gis);
-		cohort.addProperty(0xAA1DD399, [menu.id]);
-
-		// Create an empty dbpf and add the cohort to it, assign it a random 
-		// instance id by default.
-		let dbpf = new DBPF();
-		dbpf.add([FileType.Cohort, 0xb03697d1, randomId()], cohort);
-
-		// Save as well.
 		let slug = path.basename(file, path.extname(file));
 		let output = path.join(dist, 'patches', `${slug}.dat`);
-		await fs.promises.writeFile(output, dbpf.toBuffer());
-
+		await createSubmenuPatch({
+			menu: menu.id,
+			targets,
+			save: true,
+			output,
+		});
 	}
 }
 

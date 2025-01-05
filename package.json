@@ -28,7 +28,7 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "glob": "^11.0.0",
-    "sc4": "^0.1.2",
+    "sc4": "^0.1.3",
     "yaml": "^2.7.0"
   },
   "devDependencies": {
