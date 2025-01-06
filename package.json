@@ -8,7 +8,8 @@
   },
   "scripts": {
     "lint": "node build/lint.js",
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "unpack": "sc4 submenu unpack unpack_me -o src"
   },
   "repository": {
     "type": "git",
