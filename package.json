@@ -1,6 +1,6 @@
 {
   "name": "@sebamarynissen/sc4-submenu-collection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of community-curated SimCity 4 submenus",
   "main": "build/build.js",
   "engines": {
