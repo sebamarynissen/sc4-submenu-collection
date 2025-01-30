@@ -1,0 +1,6 @@
+0x07bddf1c, 0xfef2b00e # KRG_RailSide_Parking
+0x07bddf1c, 0xfef2b086 # KRG_RailSide_Parking
+0x07bddf1c, 0x1edc3460 # KRG_RailSide_Parking
+0x07bddf1c, 0x3edc37da # KRG_RailSide_Parking
+0x07bddf1c, 0x7edc3532 # KRG_RailSide_Parking
+0x07bddf1c, 0xbedc35fa # KRG_RailSide_Parking
