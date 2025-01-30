@@ -1,0 +1,7 @@
+0x2f601cf9, 0x512df903 # MAPP_TheRanger
+0x2f601cf9, 0x512e0424 # MAPP_TheRingOfFire
+0x2f601cf9, 0xb12def7c # MAPP_TheEnterprise
+0x2f601cf9, 0x512de799 # MAPP_TheGravitron
+0x2f601cf9, 0xd16e39d8 # MAPP_GoKartTrack
+0x2f601cf9, 0xf19a224b # MAPP_DropZone
+0x2f601cf9, 0xb15280ad # MAPP_Disko
