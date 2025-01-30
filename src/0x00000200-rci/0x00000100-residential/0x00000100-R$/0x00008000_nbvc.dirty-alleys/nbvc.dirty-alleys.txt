@@ -1,0 +1,5 @@
+0x07bddf1c, 0x1b58f0bf # NBVC_DirtyAlley1x1
+0x07bddf1c, 0xfb598245 # NBVC_DirtyAlley2x1
+0x07bddf1c, 0x5b598519 # NBVC_DirtyAlley3x1
+0x07bddf1c, 0x5b598cc9 # NBVC_DirtyAlley3x1_Basketball
+0x07bddf1c, 0x5b598651 # NBVC_DirtyAlleyCorner
