@@ -1,0 +1,26 @@
+0x7cc07882, 0x0ac07d08 # SM2 Pipeline 90 2 Pipes End
+0x7cc07882, 0x2ac07d2c # SM2 Pipeline 90
+0x7cc07882, 0x2ac07d74 # SM2 Pipeline Bridge Ortho 2 tiles Right
+0x7cc07882, 0x2ac07dae # SM2 Pipeline Ortho 2 Pipes End
+0x7cc07882, 0x2ac07dc4 # SM2 Pipeline Ortho
+0x7cc07882, 0x4ac07cf2 # SM2 Oil Pipeline Fill Lot
+0x7cc07882, 0x4ac07ddc # SM2 Pipeline T 4 to 2
+0x7cc07882, 0x6ac07cbc # SM2 Oil Pipes X4 112m River Bridge
+0x7cc07882, 0x6ac07d4a # SM2 Pipeline Bridge Ortho 1 tile Left
+0x7cc07882, 0x6ac07d8c # SM2 Pipeline Cross
+0x7cc07882, 0x6ac07d96 # SM2 Pipeline End
+0x7cc07882, 0x6b76e1a1 # SM2 Oil Pipes X2 Aqueduct Cross Concrete
+0x7cc07882, 0x6b76e26e # SM2 Oil Pipes X4 Aqueduct Cross Concrete
+0x7cc07882, 0x8ac07d19 # SM2 Pipeline 90 2 pipes
+0x7cc07882, 0x8ac07d80 # SM2 Pipeline Cross 2 Pipes
+0x7cc07882, 0x8ac07da1 # SM2 Pipeline Ortho 2 Pipes
+0x7cc07882, 0x8ac07de7 # SM2 Pipeline T 4 to 2 Left-Right
+0x7cc07882, 0x8b3f9e7f # SM2 Oil Pipes T 2x2x4 Concrete
+0x7cc07882, 0xaac07d68 # SM2 Pipeline Bridge Ortho 2 tiles
+0x7cc07882, 0xaac07db8 # SM2 Pipeline Ortho 4 to 2
+0x7cc07882, 0xbb3f9e16 # SM2 Oil Pipes X4 16m Ortho Stairs Concrete
+0x7cc07882, 0xeac07d39 # SM2 Pipeline Bridge Ortho 1 tile
+0x7cc07882, 0xeac07d5a # SM2 Pipeline Bridge Ortho 1 tile Right
+0x7cc07882, 0xeac07dcf # SM2 Pipeline T 2 Pipes
+0x7cc07882, 0xeac07df3 # SM2 Pipeline T
+0x7cc07882, 0xeac231e6 # SM2 Pipeline Bridge Ortho 2 tiles Left

@@ -1,0 +1,29 @@
+0x7cc07882, 0x0b3f927c # SM2 Very Large Oil Storage Tank
+0x7cc07882, 0x0b7edaa7 # SM2 Petrol Tank B
+0x7cc07882, 0x1b3b8a06 # SM2 Tank Array
+0x7cc07882, 0x1b3b92ac # SM2 Oil Tank Full
+0x7cc07882, 0x1b7edb4b # SM2 Old LNG Tank
+0x7cc07882, 0x1b83addc # SM2 BASF Large Oil Tank
+0x7cc07882, 0x2b3799aa # SM2 Euroil Oil Tank
+0x7cc07882, 0x2b3b8e09 # SM2 Oil Tank Empty
+0x7cc07882, 0x2b3b90e7 # SM2 Oil Tank Half Full
+0x7cc07882, 0x2b83be07 # SM2 Green LNG Tank
+0x7cc07882, 0x3b83d363 # SM2 Esso Truck Oil Loading Facility
+0x7cc07882, 0x4b3798d4 # SM2 Aral Oil Tank Small A
+0x7cc07882, 0x4b3b879e # SM2 Aral Oil Tank Small B
+0x7cc07882, 0x4b83d2c7 # SM2 Esso Oil Tank
+0x7cc07882, 0x5b3797d8 # SM2 Mobil Oil Tank Small A
+0x7cc07882, 0x6b3b9415 # SM2 Mobil Oil Tanks S Quad Inline
+0x7cc07882, 0x8b3796b7 # SM2 Mobil Oil Tank
+0x7cc07882, 0x8b37982e # SM2 Aral Oil Tank
+0x7cc07882, 0x8b37996b # SM2 Gulf Oil Tank
+0x7cc07882, 0x8b83d272 # SM2 Esso Oil Tank Small A
+0x7cc07882, 0x9b3a641c # SM2 Aral Truck Oil Loading Facility
+0x7cc07882, 0x9b7edaf2 # SM2 New LNG Tank
+0x7cc07882, 0xab3b964d # SM2 Mobil Oil Tanks S Quad Inline
+0x7cc07882, 0xbb3a4f3d # SM2 Rail Oil Loading-Unloading Platform
+0x7cc07882, 0xbb3ba63e # SM2 Aral Oil Tanks S Quad
+0x7cc07882, 0xdb379914 # SM2 Vopak Oil Tank
+0x7cc07882, 0xeb7eda6b # SM2 Petrol Tank A
+0x7cc07882, 0xeb83aea9 # SM2 BASF Oil Tank Small B
+0x7cc07882, 0xeb83bed3 # SM2 BASF Truck Oil Loading Facility
