@@ -4,7 +4,8 @@
 import path from 'node:path';
 import fs from 'node:fs';
 import { Glob } from 'glob';
-import { parse } from 'yaml';
+import { parse, parseDocument, Scalar } from 'yaml';
+import { randomId } from 'sc4/utils';
 
 const srcFolder = path.resolve(import.meta.dirname, '../src');
 
@@ -35,7 +36,18 @@ export async function directories(fn) {
 		let contents = String(await fs.promises.readFile(
 			path.join(folder, '_menu.yaml'),
 		));
-		let menu = parse(contents);
+		let doc = parseDocument(contents);
+		let menu = doc.toJSON();
+		if (!menu.id) {
+			menu.id = randomId();
+			let value = new Scalar(menu.id);
+			value.format = 'HEX';
+			doc.add({ key: 'id', value });
+			await fs.promises.writeFile(
+				path.join(folder, '_menu.yaml'),
+				doc.toString(),
+			);
+		}
 
 		// Filter out the icon and menu files.
 		let { icons = [], rest = [] } = Object.groupBy(files, file => {
