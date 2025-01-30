@@ -54,6 +54,7 @@ async function createPatches({ dir, menu, files }) {
 		let contents = String(await fs.promises.readFile(path.join(dir, file)));
 		let targets = contents
 			.split('\n')
+			.map(x => x.split('#').at(0))
 			.map(x => x.trim())
 			.map(line => {
 				let [group, instance] = line.split(',');

@@ -11,7 +11,7 @@ const srcFolder = path.resolve(import.meta.dirname, '../src');
 // # directories(fn)
 // Traverse function for looping all menu directories.
 export async function directories(fn) {
-	let glob = new Glob('**/*/', {
+	let glob = new Glob('**/{_0x,0x}*/', {
 		cwd: srcFolder,
 		absolute: true,
 	});
