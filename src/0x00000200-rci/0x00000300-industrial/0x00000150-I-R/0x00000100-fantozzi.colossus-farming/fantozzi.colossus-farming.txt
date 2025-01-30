@@ -1,0 +1,19 @@
+0xb517dcf2, 0x05f7fecd # Fieldtrack 1x3 A
+0xb517dcf2, 0x05f7ff68 # Fieldtrack 1x3 B
+0xb517dcf2, 0x05f8001d # Cow Replacer B
+0xb517dcf2, 0x060ce139 # Cow Replacer A with Fence
+0xb517dcf2, 0x25f7ffdd # Cow Replacer A
+0xb517dcf2, 0x26d3ecca # fz_bioplant
+0xb517dcf2, 0x660ce1a7 # Cow Replacer B Fence
+0xb517dcf2, 0x660ce1d5 # Cow Replacer B Fence Corner
+0xb517dcf2, 0x85f7fe2f # Fieldtrack 1x1 Crossing
+0xb517dcf2, 0x860ce17e # Cow Replacer A Fence Corner
+0xb517dcf2, 0x86d50140 # fz_sickerturm
+0xb517dcf2, 0xa5f7fdd8 # Fieldtrack 1x1
+0xb517dcf2, 0xa5f7fdf5 # Fieldtrack 1x1 Road
+0xb517dcf2, 0xa5f8108f # Fieldtrack 1x1 Curve
+0xb517dcf2, 0xa6ce955f # Fz_FarmFreightRail
+0xb517dcf2, 0xc5f81060 # Fieldtrack 1x1 Tee
+0xb517dcf2, 0xc6ce8d51 # Fz_FarmFreightRail
+0xb517dcf2, 0xe6ce9be7 # Fz_FarmFreightRail
+0xb517dcf2, 0xe6d284e6 # fz_oldweatherstation
