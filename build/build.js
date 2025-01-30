@@ -3,7 +3,9 @@ import path from 'node:path';
 import fs from 'node:fs';
 import * as traverse from './traversers.js';
 import builtinMenus from './builtins.js';
+import { hex } from 'sc4/utils';
 import { createSubmenuButton, createSubmenuPatch } from 'sc4/plugins';
+import { FileType, DBPF } from 'sc4/core';
 
 // Create & clear dist folder.
 const dist = path.resolve(import.meta.dirname, '../dist');
@@ -12,6 +14,7 @@ await fs.promises.mkdir(dist);
 await fs.promises.mkdir(path.join(dist, 'buttons'));
 await fs.promises.mkdir(path.join(dist, 'patches'));
 
+const patches = {};
 await traverse.directories(async (info) => {
 
 	// Create all the patches from the individual files.
@@ -42,10 +45,19 @@ await traverse.directories(async (info) => {
 		icon,
 	});
 	let slug = slugify(menu.name);
-	let output = path.join(dist, 'buttons', `${slug}.dat`);
+	let output = path.join(dist, 'buttons', `${slug}_${hex(menu.id)}.dat`);
 	await fs.promises.writeFile(output, dbpf.toBuffer());
 
 });
+
+for (let slug of Object.keys(patches)) {
+	let output = path.join(dist, 'patches', `${slug}.dat`);
+	let dbpf = new DBPF();
+	for (let cohort of patches[slug]) {
+		dbpf.add(cohort.tgi, cohort.read());
+	}
+	await fs.promises.writeFile(output, dbpf.toBuffer());
+}
 
 // # createPatches()
 // Creates the Exemplar patch dbpfs.
@@ -63,13 +75,13 @@ async function createPatches({ dir, menu, files }) {
 			.flat();
 
 		let slug = path.basename(file, path.extname(file));
-		let output = path.join(dist, 'patches', `${slug}.dat`);
-		await createSubmenuPatch({
+		let dbpf = await createSubmenuPatch({
 			menu: menu.id,
 			targets,
-			save: true,
-			output,
 		});
+		let cohorts = dbpf.findAll({ type: FileType.Cohort });
+		patches[slug] ??= [];
+		patches[slug].push(...cohorts);
 	}
 }
 
