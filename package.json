@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "node build/lint.js",
     "build": "node build/build.js",
-    "unpack": "sc4 submenu unpack unpack_me -o src"
+    "unpack": "sc4 submenu unpack unpack_me -o src",
+    "transform": "node scripts/transform.js"
   },
   "repository": {
     "type": "git",
