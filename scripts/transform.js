@@ -20,7 +20,7 @@ for await (let directory of glob) {
 			line += ` # ${target.name}`;
 		}
 		return `${line}\n`;
-	}).join('');
+	}).sort().join('');
 	let dirname = path.dirname(directory);
 	let [group, name] = path.basename(directory).split('.');
 	let fullPath = path.join(dirname, `${group}.${name}.txt`);
