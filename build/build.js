@@ -1,11 +1,16 @@
 // # build.js
 import path from 'node:path';
 import fs from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import * as traverse from './traversers.js';
 import builtinMenus from './builtins.js';
 import { hex } from 'sc4/utils';
 import { createSubmenuButton, createSubmenuPatch } from 'sc4/plugins';
 import { FileType, DBPF } from 'sc4/core';
+
+// Get the path to the placeholder .png icon that we use as long as no menu icon 
+// has been generated yet.
+const placeholder = fileURLToPath(import.meta.resolve('../placeholder.png'));
 
 // Create & clear dist folder.
 const dist = path.resolve(import.meta.dirname, '../dist');
@@ -22,7 +27,7 @@ await traverse.directories(async (info) => {
 
 	// IMPORTANT! We don't need to generate submenus *buttons* for any of the 
 	// builtin menus, these are alread handled obviously.
-	let { dir, menu, parent, icon } = info;
+	let { dir, menu, parent, icon = placeholder } = info;
 	if (builtinMenus.has(menu.id)) return;
 
 	// If this menu has no parent menu, then it normally should've been a 
