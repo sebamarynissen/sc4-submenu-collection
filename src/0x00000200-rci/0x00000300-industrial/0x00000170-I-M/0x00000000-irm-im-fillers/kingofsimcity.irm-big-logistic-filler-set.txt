@@ -1,0 +1,5 @@
+0x163f321b, 0x08ee0e82 # IRM_I-M_BigFiller_SemiTrailers_45L
+0x163f321b, 0x88ee50ed # IRM_I-M_BigFiller_Trailers_22.5L
+0x163f321b, 0xb8ee0794 # IRM_I-M_BigFiller_SemiTrailers_45R
+0x163f321b, 0xb8ee5136 # IRM_I-M_BigFiller_Trailers_22.5R
+0x163f321b, 0xc8ef322c # IRM_I-M_BigFiller_TruckEntrance

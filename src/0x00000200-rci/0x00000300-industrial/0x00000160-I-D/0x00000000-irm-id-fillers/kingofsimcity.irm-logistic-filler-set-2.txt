@@ -1,0 +1,4 @@
+0x163f321b, 0x08ff71a7 # IRM_I-D_Filler_WallStraight_DumpTrucksAM
+0x163f321b, 0x18fab6f4 # IRM_I-D_Filler_WallStraight_Trailers53AM
+0x163f321b, 0x68fad141 # IRM_I-D_Filler_WallStraight_TankersAM
+0x163f321b, 0xd9ef04ad # IRM_I-D_Filler_WallStraight_MixedChassisAM

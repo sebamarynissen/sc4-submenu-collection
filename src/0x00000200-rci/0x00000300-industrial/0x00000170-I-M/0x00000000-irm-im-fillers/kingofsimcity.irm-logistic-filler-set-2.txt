@@ -1,0 +1,4 @@
+0x163f321b, 0x28fa2a8e # IRM_I-M_Filler_WallStraight_Trailers53AM
+0x163f321b, 0x49ef05db # IRM_I-M_Filler_WallStraight_AssortedTrailersAM
+0x163f321b, 0xa9eeff27 # IRM_I-M_Filler_WallStraight_MixedChassisAM
+0x163f321b, 0xb8fad5c8 # IRM_I-M_Filler_WallStraight_PipeTrucksAM
