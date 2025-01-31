@@ -1,6 +1,7 @@
 // # build.js
 import path from 'node:path';
 import fs from 'node:fs';
+import { styleText } from 'node:util';
 import { fileURLToPath } from 'node:url';
 import * as traverse from './traversers.js';
 import builtinMenus from './builtins.js';
@@ -41,6 +42,9 @@ await traverse.directories(async (info) => {
 	let [order] = dirname.split('-');
 
 	// Generate the actual menu button now.
+	if (icon === placeholder) {
+		console.warn(styleText('yellow', `warning: ${dirname} has no icon, a placeholder icon will be used`));
+	}
 	let { dbpf } = await createSubmenuButton({
 		name: menu.name,
 		description: menu.description,
