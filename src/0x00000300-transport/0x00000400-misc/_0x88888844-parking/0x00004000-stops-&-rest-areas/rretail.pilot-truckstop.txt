@@ -1,0 +1,2 @@
+0x27d79b48, 0x8e117166 # RR Pilot Car Box
+0x27d79b48, 0x8e201180 # RR Pilot Truck Box
