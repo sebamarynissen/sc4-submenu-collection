@@ -1,0 +1,3 @@
+0xb142abe2, 0x31dbbe0e # SFBT_ARAL_Trapezdach
+0xb142abe2, 0x91de126c # SFBT_ARAL_Tonnendach
+0xb142abe2, 0xb2059c7c # SFBT_ARAL_Schild

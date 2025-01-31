@@ -1,0 +1,12 @@
+0xbf2aa679, 0x106e8ccd # PC Alta Convenience
+0xbf2aa679, 0x106eba91 # PC Total Bonjour
+0xbf2aa679, 0x106fac15 # PC Loop Neighborhood
+0xbf2aa679, 0x306eba60 # PC Total Bonjour
+0xbf2aa679, 0x306faec8 # PC Par Mar Ewing
+0xbf2aa679, 0x506eb75a # PC True North
+0xbf2aa679, 0x706fb87d # PC Bellstores Marathon
+0xbf2aa679, 0xb04ac8d4 # PC Retrowave
+0xbf2aa679, 0xb06eb977 # PC Duchess Mart
+0xbf2aa679, 0xd06fae83 # PC Little General
+0xbf2aa679, 0xf06e6dcb # PC Terrible Herbst
+0xc80b6ac4, 0xb04ac8d4 # PC Jeremys Travel Plaza
