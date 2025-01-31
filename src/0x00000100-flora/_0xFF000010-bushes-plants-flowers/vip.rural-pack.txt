@@ -11,3 +11,4 @@ Flora:
 0xe83e0437, 0x19620091 # VV_TSC_ploppable_Fougere02
 0xe83e0437, 0x19620092 # VV_TSC_ploppable_Fougere03
 0xe83e0437, 0x19620093 # VV_TSC_ploppable_Fougere04
+0xe83e0437, 0x19620275 # Or_VIP_Corylus01
