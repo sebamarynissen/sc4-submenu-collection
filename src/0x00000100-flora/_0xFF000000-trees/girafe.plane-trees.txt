@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf449010 # Grfe_Plane_trees_summer_A
+0xe83e0437, 0xaf449011 # Grfe_Plane_trees_summer_B
+0xe83e0437, 0xaf449012 # Grfe_Plane_trees_summer_C
+0xe83e0437, 0xaf449013 # Grfe_Plane_trees_summer_D
+0xe83e0437, 0xaf449014 # Grfe_Plane_trees_summer_E
+0xe83e0437, 0xaf449020 # Grfe_plane_tree_seasonal_A
+0xe83e0437, 0xaf449021 # Grfe_plane_tree_seasonal_B
+0xe83e0437, 0xaf449022 # Grfe_plane_tree_seasonal_C
+0xe83e0437, 0xaf449023 # Grfe_plane_tree_seasonal_D
+0xe83e0437, 0xaf449024 # Grfe_plane_tree_seasonal_E

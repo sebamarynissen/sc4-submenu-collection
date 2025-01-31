@@ -1,0 +1,10 @@
+Flora:
+0xe83e0437, 0xaf448900 # Grfe_Canary_date_palm_evergreen_A
+0xe83e0437, 0xaf448901 # Grfe_Canary_date_palm_evergreen_B
+0xe83e0437, 0xaf448902 # Grfe_Canary_date_palm_evergreen_C
+0xe83e0437, 0xaf448903 # Grfe_Canary_date_palm_evergreen_D
+0xe83e0437, 0xaf448904 # Grfe_Canary_date_palm_evergreen_E
+0xe83e0437, 0xaf448905 # Grfe_Canary_date_palm_evergreen_F
+0xe83e0437, 0xaf448906 # Grfe_Canary_date_palm_evergreen_F
+0xe83e0437, 0xaf448907 # Grfe_Canary_date_palm_evergreen_F
+0xe83e0437, 0xaf448908 # Grfe_Canary_date_palm_ghost_piece

@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0xaf442000 # Grfe_abies_grandis_winter_A
+0xe83e0437, 0xaf442001 # Grfe_abies_grandis_winter_B
+0xe83e0437, 0xaf442002 # Grfe_abies_grandis_winter_C
+0xe83e0437, 0xaf442003 # Grfe_abies_grandis_winter_D
+0xe83e0437, 0xaf442004 # Grfe_abies_grandis_winter_E
+0xe83e0437, 0xaf481030 # Grfe_grand_firs_evergreen_A2
+0xe83e0437, 0xaf481031 # Grfe_grand_firs_evergreen_B2
+0xe83e0437, 0xaf481032 # Grfe_grand_firs_evergreen_C2
+0xe83e0437, 0xaf481033 # Grfe_grand_firs_evergreen_D2
+0xe83e0437, 0xaf481034 # Grfe_grand_firs_evergreen_E2
+0xe83e0437, 0xaf481040 # Grfe_grand_firs_seasonal_A2
+0xe83e0437, 0xaf481041 # Grfe_grand_firs_seasonal_B2
+0xe83e0437, 0xaf481042 # Grfe_grand_firs_seasonal_C2
+0xe83e0437, 0xaf481043 # Grfe_grand_firs_seasonal_D2
+0xe83e0437, 0xaf481044 # Grfe_grand_firs_seasonal_E2

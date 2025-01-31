@@ -1,0 +1,7 @@
+Flora:
+0xe83e0437, 0xaf448360 # Grfe_berry_summer_A
+0xe83e0437, 0xaf448361 # Grfe_berry_summer_B
+0xe83e0437, 0xaf448362 # Grfe_berry_summer_C
+0xe83e0437, 0xaf448370 # Grfe_berry_seasonal_A
+0xe83e0437, 0xaf448371 # Grfe_berry_seasonal_B
+0xe83e0437, 0xaf448372 # Grfe_berry_seasonal_C

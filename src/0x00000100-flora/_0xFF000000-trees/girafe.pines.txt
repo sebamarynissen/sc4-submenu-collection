@@ -1,0 +1,12 @@
+Flora:
+0xe83e0437, 0xaf440000 # TSC_Grfe_wp_Grand_Fir_winter
+0xe83e0437, 0xaf440010 # TSC_Grfe_wp_Serbian_Spruce_summer
+0xe83e0437, 0xaf440020 # TSC_Grfe_wp_Serbian_Spruce_winter
+0xe83e0437, 0xaf440025 # TSC_Grfe_wp_Serbian_Spruce_dead_winter
+0xe83e0437, 0xaf440030 # TSC_Grfe_wp_Grand_Fir_dead_winter
+0xe83e0437, 0xaf440050 # TSC_Grfe_wp_Grand _Fir_summer
+0xe83e0437, 0xaf440060 # TSC_Grfe_wp_Large_European Spruce_summer
+0xe83e0437, 0xaf440070 # TSC_Grfe_wp_Large_European_Spruce_winter
+0xe83e0437, 0xaf440170 # TSC_Grfe_wp_Grand_Fir_dead_summer
+0xe83e0437, 0xaf440370 # TSC_Grfe_wp_Small_European_Spruce_summer
+0xe83e0437, 0xaf440380 # TSC_Grfe_wp_Small_European_Spruce_winter

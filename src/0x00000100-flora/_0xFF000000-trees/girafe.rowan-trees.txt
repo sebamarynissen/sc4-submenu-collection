@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448710 # Grfe_rowan_tree_seasonal_A
+0xe83e0437, 0xaf448711 # Grfe_rowan_tree_seasonal_B
+0xe83e0437, 0xaf448712 # Grfe_rowan_tree_seasonal_C
+0xe83e0437, 0xaf448713 # Grfe_rowan_tree_seasonal_D
+0xe83e0437, 0xaf448714 # Grfe_rowan_tree_seasonal_E
+0xe83e0437, 0xaf448720 # Grfe_rowan_tree_evergreen_A
+0xe83e0437, 0xaf448721 # Grfe_rowan_tree_evergreen_B
+0xe83e0437, 0xaf448722 # Grfe_rowan_tree_evergreen_C
+0xe83e0437, 0xaf448723 # Grfe_rowan_tree_evergreen_D
+0xe83e0437, 0xaf448724 # Grfe_rowan_tree_evergreen_E

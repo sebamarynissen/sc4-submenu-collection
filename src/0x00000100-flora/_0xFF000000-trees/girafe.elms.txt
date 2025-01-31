@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448740 # Grfe_elm_evergreen_A
+0xe83e0437, 0xaf448741 # Grfe_elm_evergreen_B
+0xe83e0437, 0xaf448742 # Grfe_elm_evergreen_C
+0xe83e0437, 0xaf448743 # Grfe_elm_evergreen_D
+0xe83e0437, 0xaf448744 # Grfe_elm_evergreen_E
+0xe83e0437, 0xaf448750 # Grfe_elm_seasonal_A
+0xe83e0437, 0xaf448751 # Grfe_elm_seasonal_B
+0xe83e0437, 0xaf448752 # Grfe_elm_seasonal_C
+0xe83e0437, 0xaf448753 # Grfe_elm_seasonal_D
+0xe83e0437, 0xaf448754 # Grfe_elm_seasonal_E

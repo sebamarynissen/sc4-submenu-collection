@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0xaf448470 # Grfe_poppies_summer_A
+0xe83e0437, 0xaf448471 # Grfe_poppies_summer_B
+0xe83e0437, 0xaf448480 # Grfe_poppies_seasonal_A
+0xe83e0437, 0xaf448481 # Grfe_poppies_seasonal_B

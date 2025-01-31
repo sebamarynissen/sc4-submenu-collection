@@ -1,0 +1,3 @@
+Flora:
+0xe83e0437, 0xaf448050 # Grfe_wheat_seasonal
+0xe83e0437, 0xaf448060 # Grfe_wheat_summer

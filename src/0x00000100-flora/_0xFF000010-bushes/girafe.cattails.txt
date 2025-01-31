@@ -1,0 +1,7 @@
+Flora:
+0xe83e0437, 0xaf449110 # Grfe_cattail_evergreen_A
+0xe83e0437, 0xaf449111 # Grfe_cattail_evergreen_B
+0xe83e0437, 0xaf449112 # Grfe_cattail_evergreen_C
+0xe83e0437, 0xaf449154 # Grfe_cattail_seasonal_A
+0xe83e0437, 0xaf449155 # Grfe_cattail_seasonal_B
+0xe83e0437, 0xaf449156 # Grfe_cattail_seasonal_C

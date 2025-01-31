@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0xaf438700 # Grfe_broadleaf_trees
+0xe83e0437, 0xaf438710 # Grfe_conifers
+0xe83e0437, 0xaf438740 # Grfe_palm_trees
+

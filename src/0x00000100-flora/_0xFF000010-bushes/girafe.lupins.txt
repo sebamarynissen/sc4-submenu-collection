@@ -1,0 +1,7 @@
+Flora:
+0xe83e0437, 0xaf448340 # Grfe_lupin_summer_A
+0xe83e0437, 0xaf448341 # Grfe_lupin_summer_B
+0xe83e0437, 0xaf448342 # Grfe_lupin_summer_C
+0xe83e0437, 0xaf448350 # Grfe_lupin_seasonal_A
+0xe83e0437, 0xaf448351 # Grfe_lupin_seasonal_B
+0xe83e0437, 0xaf448352 # Grfe_lupin_seasonal_C

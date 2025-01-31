@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0x33aa001f # Grfe_serbian_spruces_seasonal_A
+0xe83e0437, 0x33aa0020 # Grfe_serbian_spruces_seasonal_B
+0xe83e0437, 0x33aa0021 # Grfe_serbian_spruces_seasonal_C
+0xe83e0437, 0x33aa0022 # Grfe_serbian_spruces_seasonal_D
+0xe83e0437, 0x33aa0023 # Grfe_serbian_spruces_seasonal_E
+0xe83e0437, 0xaf471000 # Grfe_serbian_spruces_winter_A
+0xe83e0437, 0xaf471001 # Grfe_serbian_spruces_winter_B
+0xe83e0437, 0xaf471002 # Grfe_serbian_spruces_winter_C
+0xe83e0437, 0xaf471003 # Grfe_serbian_spruces_winter_D
+0xe83e0437, 0xaf471004 # Grfe_serbian_spruces_winter_E
+0xe83e0437, 0xaf481000 # Grfe_serbian_spruce_summer_A
+0xe83e0437, 0xaf481001 # Grfe_serbian_spruce_summer_B
+0xe83e0437, 0xaf481002 # Grfe_serbian_spruce_summer_C
+0xe83e0437, 0xaf481003 # Grfe_serbian_spruce_summer_D
+0xe83e0437, 0xaf481004 # Grfe_serbian_spruce_summer_E

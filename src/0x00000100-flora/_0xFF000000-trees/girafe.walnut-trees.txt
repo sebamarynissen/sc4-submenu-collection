@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448850 # Grfe_walnut_tree_evergreen_A
+0xe83e0437, 0xaf448851 # Grfe_walnut_tree_evergreen_B
+0xe83e0437, 0xaf448852 # Grfe_walnut_tree_evergreen_C
+0xe83e0437, 0xaf448853 # Grfe_walnut_tree_evergreen_D
+0xe83e0437, 0xaf448854 # Grfe_walnut_tree_evergreen_E
+0xe83e0437, 0xaf448860 # Grfe_walnut_tree_seasonal_A
+0xe83e0437, 0xaf448861 # Grfe_walnut_tree_seasonal_B
+0xe83e0437, 0xaf448862 # Grfe_walnut_tree_seasonal_C
+0xe83e0437, 0xaf448863 # Grfe_walnut_tree_seasonal_D
+0xe83e0437, 0xaf448864 # Grfe_walnut_tree_seasonal_E

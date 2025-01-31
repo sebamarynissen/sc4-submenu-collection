@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf440250 # Grfe_oak_summer_A
+0xe83e0437, 0xaf440251 # Grfe_oak_summer_B
+0xe83e0437, 0xaf440252 # Grfe_oak_summer_C
+0xe83e0437, 0xaf440253 # Grfe_oak_summer_D
+0xe83e0437, 0xaf440254 # Grfe_oak_summer_E
+0xe83e0437, 0xaf440260 # Grfe_oak_seasonal_A
+0xe83e0437, 0xaf440261 # Grfe_oak_seasonal_B
+0xe83e0437, 0xaf440262 # Grfe_oak_seasonal_C
+0xe83e0437, 0xaf440263 # Grfe_oak_seasonal_D
+0xe83e0437, 0xaf440264 # Grfe_oak_seasonal_E

@@ -1,0 +1,3 @@
+Flora:
+0xe83e0437, 0xaf438720 # Grfe_bushes
+0xe83e0437, 0xaf448730 # Grfe_flowers

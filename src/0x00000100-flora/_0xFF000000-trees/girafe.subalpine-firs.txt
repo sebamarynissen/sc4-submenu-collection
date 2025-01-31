@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0xaf448085 # Grfe_subalpine_fir_summer_A
+0xe83e0437, 0xaf448086 # Grfe_subalpine_fir_summer_B
+0xe83e0437, 0xaf448087 # Grfe_subalpine_fir_summer_C
+0xe83e0437, 0xaf448088 # Grfe_subalpine_fir_summer_D
+0xe83e0437, 0xaf448089 # Grfe_subalpine_fir_summer_E
+0xe83e0437, 0xaf448090 # Grfe_subalpine_fir_winter_A
+0xe83e0437, 0xaf448091 # Grfe_subalpine_fir_winter_B
+0xe83e0437, 0xaf448092 # Grfe_subalpine_fir_winter_C
+0xe83e0437, 0xaf448093 # Grfe_subalpine_fir_winter_D
+0xe83e0437, 0xaf448094 # Grfe_subalpine_fir_winter_E
+0xe83e0437, 0xaf448110 # Grfe_subalpine_fir_seasonal_A
+0xe83e0437, 0xaf448111 # Grfe_subalpine_fir_seasonal_B
+0xe83e0437, 0xaf448112 # Grfe_subalpine_fir_seasonal_C
+0xe83e0437, 0xaf448113 # Grfe_subalpine_fir_seasonal_D
+0xe83e0437, 0xaf448114 # Grfe_subalpine_fir_seasonal_E

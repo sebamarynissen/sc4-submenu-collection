@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0xaf448810 # Grfe_conifer_seasonal_A
+0xe83e0437, 0xaf448811 # Grfe_conifer_seasonal_B
+0xe83e0437, 0xaf448812 # Grfe_conifer_seasonal_C
+0xe83e0437, 0xaf448813 # Grfe_conifer_seasonal_D
+0xe83e0437, 0xaf448814 # Grfe_conifer_seasonal_E
+0xe83e0437, 0xaf448820 # Grfe_conifer_winter_A
+0xe83e0437, 0xaf448821 # Grfe_conifer_winter_B
+0xe83e0437, 0xaf448822 # Grfe_conifer_winter_C
+0xe83e0437, 0xaf448823 # Grfe_conifer_winter_D
+0xe83e0437, 0xaf448824 # Grfe_conifer_winter_E
+0xe83e0437, 0xaf448840 # Grfe_conifer_summer_A
+0xe83e0437, 0xaf448841 # Grfe_conifer_summer_B
+0xe83e0437, 0xaf448842 # Grfe_conifer_summer_C
+0xe83e0437, 0xaf448843 # Grfe_conifer_summer_D
+0xe83e0437, 0xaf448844 # Grfe_conifer_summer_E

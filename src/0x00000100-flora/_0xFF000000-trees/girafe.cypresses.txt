@@ -1,0 +1,6 @@
+Flora:
+0xe83e0437, 0xaf448530 # Grfe_cypress_evergreen_A
+0xe83e0437, 0xaf448531 # Grfe_cypress_evergreen_B
+0xe83e0437, 0xaf448532 # Grfe_cypress_evergreen_C
+0xe83e0437, 0xaf448533 # Grfe_cypress_evergreen_D
+0xe83e0437, 0xaf448534 # Grfe_cypress_evergreen_E

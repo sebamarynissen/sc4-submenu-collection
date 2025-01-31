@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0xaf448490 # Grfe_narcissus_summer_A
+0xe83e0437, 0xaf448491 # Grfe_narcissus_summer_B
+0xe83e0437, 0xaf448500 # Grfe_narcissus_seasonal_A
+0xe83e0437, 0xaf448501 # Grfe_narcissus_seasonal_B

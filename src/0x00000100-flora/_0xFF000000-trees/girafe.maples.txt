@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0x33aa0015 # Grfe_maple_seasonal_A
+0xe83e0437, 0x33aa0016 # Grfe_maple_seasonal_B
+0xe83e0437, 0x33aa0017 # Grfe_maple_seasonal_C
+0xe83e0437, 0x33aa0018 # Grfe_maple_seasonal_D
+0xe83e0437, 0x33aa0019 # Grfe_maple_seasonal_E
+0xe83e0437, 0xaf451000 # Grfe_maple_summer_A
+0xe83e0437, 0xaf451001 # Grfe_maple_summer_B
+0xe83e0437, 0xaf451002 # Grfe_maple_summer_C
+0xe83e0437, 0xaf451003 # Grfe_maple_summer_D
+0xe83e0437, 0xaf451004 # Grfe_maple_summer_E
