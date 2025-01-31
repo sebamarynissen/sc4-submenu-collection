@@ -7,7 +7,7 @@ import * as traverse from './traversers.js';
 import builtinMenus from './builtins.js';
 import { hex } from 'sc4/utils';
 import { createSubmenuButton, createSubmenuPatch } from 'sc4/plugins';
-import { FileType, DBPF } from 'sc4/core';
+import { FileType, DBPF, TGI } from 'sc4/core';
 
 // Get the path to the placeholder .png icon that we use as long as no menu icon 
 // has been generated yet.
@@ -74,21 +74,33 @@ for (let slug of Object.keys(patches)) {
 async function createPatches({ dir, menu, files }) {
 	for (let file of files) {
 		let contents = String(await fs.promises.readFile(path.join(dir, file)));
-		let targets = contents
+		let targets = { lots: [], flora: [] };
+		let pivot = targets.lots;
+		let lines = contents
 			.split('\n')
-			.map(x => x.split('#').at(0))
 			.map(x => x.trim())
-			.map(line => {
-				let [group, instance] = line.split(',');
-				return [+group, +instance];
-			})
-			.flat();
+			.filter(line => !!line && !line.startsWith('#'));
+		for (let line of lines) {
+			if (line.startsWith('Flora:')) {
+				pivot = targets.flora;
+			}
+			let [ids, name] = line.split('#');
+			let [group, instance] = ids.trim().split(',');
+			pivot.push({
+				tgi: new TGI(FileType.Exemplar, +group, +instance),
+				name,
+			});
+		}
 
 		let slug = path.basename(file, path.extname(file));
 		let dbpf = await createSubmenuPatch({
 			menu: menu.id,
 			targets,
 		});
+		if (!dbpf) {
+			console.warn(styleText('yellow', `${file} contains no exeplars`));
+			continue;
+		};
 		let cohorts = dbpf.findAll({ type: FileType.Cohort });
 		patches[slug] ??= [];
 		patches[slug].push(...cohorts);

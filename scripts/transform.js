@@ -14,13 +14,24 @@ const glob = new Glob('**/*.sc4pac/', {
 const patcher = new SubmenuPatcher();
 for await (let directory of glob) {
 	let targets = await patcher.findPatchTargets({ directory });
-	let file = targets.lots.map(target => {
+	let lots = targets.lots.map(target => {
 		let line = [hex(target.tgi.group), hex(target.tgi.instance)].join(', ');
 		if (target.name) {
 			line += ` # ${target.name}`;
 		}
 		return `${line}\n`;
 	}).sort().join('');
+	let flora = targets.flora.map(target => {
+		let line = [hex(target.tgi.group), hex(target.tgi.instance)].join(', ');
+		if (target.name) {
+			line += ` # ${target.name}`;
+		}
+		return `${line}\n`;
+	}).sort().join('');
+	let file = lots;
+	if (flora) {
+		file += `Flora:\n${flora}`;
+	}
 	let dirname = path.dirname(directory);
 	let [group, name] = path.basename(directory).split('.');
 	let fullPath = path.join(dirname, `${group}.${name}.txt`);
