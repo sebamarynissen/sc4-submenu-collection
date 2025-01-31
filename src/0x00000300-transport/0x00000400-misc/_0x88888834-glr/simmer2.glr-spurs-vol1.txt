@@ -1,0 +1,8 @@
+0x7cc07882, 0x1a054b3d # SM2 GLR DTR Spur 8 Tile
+0x7cc07882, 0x2a0553fa # SM2 GLR DTR Spur 9 Tiles
+0x7cc07882, 0x393e6cab # SM2 GLR Quad Spur 10 tiles
+0x7cc07882, 0x5a05b9c0 # SM2 GLR TTR Spur 10 Tiles
+0x7cc07882, 0x5a0d0edd # SM2 GLR DTR Spur 6 Tiles
+0x7cc07882, 0x8a0d05db # SM2 GLR Quad Spur 9 Tiles
+0x7cc07882, 0xda0cfe4a # SM2 GLR TTR Spur 7 Tiles
+0x7cc07882, 0xea05bbe8 # SM2 GLR DTR Spur 5 tiles
