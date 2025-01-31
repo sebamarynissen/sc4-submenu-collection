@@ -1,0 +1,20 @@
+0x908cd9d2, 0x32c8ef26 # KOSC_Superparking_Grass_Filler
+0x908cd9d2, 0x92c8ef13 # KOSC_Superparking_Grass_Filler
+0xbf2aa679, 0x12c7ee8b # PC Harvey Norman
+0xbf2aa679, 0x12c8e284 # PC Amart Furniture
+0xbf2aa679, 0x12c8e2f0 # PC Bunnings
+0xbf2aa679, 0x32c8e2c2 # PC Big W
+0xbf2aa679, 0x72c7ca46 # PC Coles Supermarket
+0xbf2aa679, 0x72c7ee29 # PC Dan Murphys
+0xbf2aa679, 0x72c8e3ac # PC Supercheap Auto
+0xbf2aa679, 0x72c8e3e3 # PC Terry White Chemmart
+0xbf2aa679, 0x92c7c4a4 # PC Zara
+0xbf2aa679, 0x92c7c844 # PC Target Australia
+0xbf2aa679, 0x92c7edcb # PC Primark
+0xbf2aa679, 0x92c8e37a # PC Harris Scarfe
+0xbf2aa679, 0xb2c8e32a # PC The Good Guys
+0xbf2aa679, 0xb2c8e40b # PC Tower Records
+0xbf2aa679, 0xd2c8e1b6 # PC Smyths
+0xbf2aa679, 0xf2c64d55 # PC KMart Australia
+0xbf2aa679, 0xf2c8e22f # PC Fantastic Furniture
+0xbf2aa679, 0xf2c92103 # PC Dreams
