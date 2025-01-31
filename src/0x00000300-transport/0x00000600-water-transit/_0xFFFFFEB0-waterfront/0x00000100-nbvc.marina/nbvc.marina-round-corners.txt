@@ -1,6 +1,0 @@
-0xfac95ee9, 0x210116e7 # NBVC_MarinaICRoundLeftPier1
-0xfac95ee9, 0x40eea643 # NBVC_MarinaICRoundRightPier1
-0xfac95ee9, 0x5fdd9bc2 # NBVC_MarinaICRoundRight
-0xfac95ee9, 0x5fdd9efd # NBVC_MarinaWallBench
-0xfac95ee9, 0x7ffab36d # NBVC_MarinaRoundRightOC1
-0xfac95ee9, 0xdffac134 # NBVC_MarinaRoundLeftOC
