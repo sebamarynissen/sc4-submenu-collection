@@ -1,0 +1,10 @@
+Flora:
+0xe83e0437, 0x4b7c0421 # NBVC_Surfboard1MMP
+0xe83e0437, 0x4b7c0422 # NBVC_Surfboard2MMP
+0xe83e0437, 0x4b7c0423 # NBVC_Surfboard3MMP
+0xe83e0437, 0x4b7c0424 # NBVC_Windsurfboard1MMP
+0xe83e0437, 0x4b7c0425 # NBVC_2Surfboards1MMP
+0xe83e0437, 0x4b7c0426 # NBVC_2SurfboardsMMP
+0xe83e0437, 0x4b7c0427 # NBVC_SurferStanding1MMP
+0xe83e0437, 0x4b7c0428 # NBVC_SurferWalk1MMP
+0xe83e0437, 0x4b7c0429 # NBVC_SurferWalk2MMP

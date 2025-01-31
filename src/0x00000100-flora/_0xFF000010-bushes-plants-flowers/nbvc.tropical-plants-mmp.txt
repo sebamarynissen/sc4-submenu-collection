@@ -1,0 +1,14 @@
+Flora:
+0xe83e0437, 0x4b7c1121 # NBVC_CP_TropBigLeaf1Prop_MMP
+0xe83e0437, 0x4b7c1122 # NBVC_CP_TropicalBigLeafA1_121 Prop_MMP
+0xe83e0437, 0x4b7c1123 # NBVC_TropicalBigLeafA5x5x6_LotFlora_MMP
+0xe83e0437, 0x4b7c1124 # NBVC_TropicalBigLeafA6x6x6_LotFlora_MMP
+0xe83e0437, 0x4b7c1125 # NBVC_TropicalBigLeafA7x7x9_LotFlora_MMP
+0xe83e0437, 0x4b7c1126 # NBVC_CP_TropShrubA2_9_MMP
+0xe83e0437, 0x4b7c1127 # NBVC_CP_TropicalShrubBProp_MMP
+0xe83e0437, 0x4b7c1128 # NBVC_CP_BigFernProp_MMP
+0xe83e0437, 0x4b7c1129 # NBVC_CP_RattanFernProp1_10_MMP
+0xe83e0437, 0x4b7c112a # NBVC_CP_TigerFern1_14 Prop_semiseasonal_MMP
+0xe83e0437, 0x4b7c112b # NBVC_CP_TigerFernProp1_10_Semiseasonal_MMP
+0xe83e0437, 0x4b7c112c # NBVC_CP_VarezaVineProp1_10_MMP
+0xe83e0437, 0x4b7c112d # NBVC_CP_TropShrubA2_11_MMP

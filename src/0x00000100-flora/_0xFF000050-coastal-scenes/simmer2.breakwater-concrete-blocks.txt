@@ -1,0 +1,9 @@
+Flora:
+0xe83e0437, 0xde5155a0 # SM2 Plop Concrete Blocks
+0xe83e0437, 0xde5155a1 # SM2 Plop Concrete Blocks_01
+0xe83e0437, 0xde5155a2 # SM2 Plop Concrete Blocks_02
+0xe83e0437, 0xde5155a3 # SM2 Plop Concrete Blocks_03
+0xe83e0437, 0xde5155a4 # SM2 Plop Concrete Blocks_04
+0xe83e0437, 0xde5155a5 # SM2 Plop Concrete Blocks_05
+0xe83e0437, 0xde5155a6 # SM2 Plop Concrete Blocks_06
+0xe83e0437, 0xde5155a7 # SM2 Plop Concrete Blocks_07

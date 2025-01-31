@@ -1,0 +1,12 @@
+Flora:
+0xe83e0437, 0xf8f80500 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S1_90
+0xe83e0437, 0xf8f80501 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S1_90
+0xe83e0437, 0xf8f80502 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S1_90
+0xe83e0437, 0xf8f80503 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S1_90
+0xe83e0437, 0xf8f80504 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S1_90
+0xe83e0437, 0xf8f80505 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S1_90
+0xe83e0437, 0xf8f80506 # AGC_Plants_Lavandula_Angustifolia_V05_2.2m_S1_90
+0xe83e0437, 0xf8f80507 # AGC_Plants_Lavandula_Angustifolia_V05_2.2m_S1_90
+0xe83e0437, 0xf8f80508 # AGC_Plants_Lavandula_Angustifolia_V05_2.2m_S1_90
+0xe83e0437, 0xf8f80509 # AGC_Plants_Lavandula_Angustifolia_V05_2.2m_S1_90
+0xe83e0437, 0xf8f80510 # AGC_Plants_Lavandula_Angustifolia_V05_1.7m_S2_90

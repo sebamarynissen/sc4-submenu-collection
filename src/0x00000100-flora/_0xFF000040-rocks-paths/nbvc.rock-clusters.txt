@@ -1,0 +1,8 @@
+Flora:
+0xe83e0437, 0x4b7c0321 # NBVC_RockCluster0
+0xe83e0437, 0x4b7c0322 # NBVC_RockCluster1
+0xe83e0437, 0x4b7c0323 # NBVC_RockCluster2
+0xe83e0437, 0x4b7c0324 # NBVC_RockCluster3
+0xe83e0437, 0x4b7c0325 # NBVC_RockCluster4
+0xe83e0437, 0x4b7c0326 # NBVC_RockCluster5
+0xe83e0437, 0x4b7c0327 # NBVC_RockCluster6

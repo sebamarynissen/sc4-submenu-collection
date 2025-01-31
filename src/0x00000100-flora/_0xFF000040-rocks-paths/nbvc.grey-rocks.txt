@@ -1,0 +1,8 @@
+Flora:
+0xe83e0437, 0x4b7c0121 # NBVC_GreyRocks
+0xe83e0437, 0x4b7c0122 # NBVC_GreyRock2
+0xe83e0437, 0x4b7c0123 # NBVC_GreyRock3
+0xe83e0437, 0x4b7c0124 # NBVC_GreyRocks4
+0xe83e0437, 0x4b7c0125 # NBVC_GreyRocks5
+0xe83e0437, 0x4b7c0126 # NBVC_GreyRock6
+0xe83e0437, 0x4b7c0127 # NBVC_GreyRock7

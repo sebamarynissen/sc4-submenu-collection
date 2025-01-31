@@ -1,0 +1,13 @@
+Flora:
+0xe83e0437, 0x19620280 # VIP_RP-FL_Or_Narcissus01
+0xe83e0437, 0x19620281 # VIP_RP-FL_Or_Narcissus02
+0xe83e0437, 0x19620282 # VIP_RP-FL_Or_Narcissus03
+0xe83e0437, 0x19620283 # VIP_RP-FL_Or_Narcissus04
+0xe83e0437, 0x19620284 # VIP_RP-FL_Or_Narcissus05
+0xe83e0437, 0x19620190 # VV_VIP_ploppable_Genet01
+0xe83e0437, 0x19620191 # VV_VIP_ploppable_Genet02
+0xe83e0437, 0x19620192 # VV_VIP_ploppable_Genet03
+0xe83e0437, 0x19620090 # VV_TSC_ploppable_Fougere01
+0xe83e0437, 0x19620091 # VV_TSC_ploppable_Fougere02
+0xe83e0437, 0x19620092 # VV_TSC_ploppable_Fougere03
+0xe83e0437, 0x19620093 # VV_TSC_ploppable_Fougere04
