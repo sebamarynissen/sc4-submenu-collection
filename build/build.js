@@ -27,9 +27,10 @@ await traverse.directories(async (info) => {
 	await createPatches(info);
 
 	// IMPORTANT! We don't need to generate submenus *buttons* for any of the 
-	// builtin menus, these are alread handled obviously.
+	// builtin menus, these are alread handled obviously. However, for some 
+	// menus we'd like to create custom icons, so we *do* override if specified.
 	let { dir, menu, parent, icon = placeholder } = info;
-	if (builtinMenus.has(menu.id)) return;
+	if (builtinMenus.has(menu.id) && !menu.override) return;
 
 	// If this menu has no parent menu, then it normally should've been a 
 	// builtin. If that's not the case, something's wrong.
