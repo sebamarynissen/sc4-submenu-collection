@@ -1,0 +1,7 @@
+0xfac95ee9, 0x1ec0583c # NBVC_Riprap_SeawallPipe3_1x1
+0xfac95ee9, 0x1ec05e6c # NBVC_Riprap_SeawallPipe3_1x1
+0xfac95ee9, 0x1ec39dc9 # NBVC_Riprap_CanalCenter_1x1
+0xfac95ee9, 0x3eccd892 # NBVC_Riprap_SeawallCanalLeft_1x1
+0xfac95ee9, 0x7eb6294c # NBVC_Riprap_Seawall_1x1
+0xfac95ee9, 0xbec05e8f # NBVC_Riprap_SeawallDrain_1x1
+0xfac95ee9, 0xdec39e49 # NBVC_Riprap_SeawallCanalRight_1x1
