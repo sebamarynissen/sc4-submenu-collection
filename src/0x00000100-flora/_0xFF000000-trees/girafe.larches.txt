@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0xaf448380 # Grfe_larch_summer_A
+0xe83e0437, 0xaf448381 # Grfe_larch_summer_B
+0xe83e0437, 0xaf448382 # Grfe_larch_summer_C
+0xe83e0437, 0xaf448383 # Grfe_larch_summer_D
+0xe83e0437, 0xaf448384 # Grfe_larch_summer_E
+0xe83e0437, 0xaf448390 # Grfe_larch_seasonal_A
+0xe83e0437, 0xaf448391 # Grfe_larch_seasonal_B
+0xe83e0437, 0xaf448392 # Grfe_larch_seasonal_C
+0xe83e0437, 0xaf448393 # Grfe_larch_seasonal_D
+0xe83e0437, 0xaf448394 # Grfe_larch_seasonal_E
+0xe83e0437, 0xaf488390 # Grfe_larch_seasonal_A
+0xe83e0437, 0xaf488391 # Grfe_larch_seasonal_B
+0xe83e0437, 0xaf488392 # Grfe_larch_seasonal_C
+0xe83e0437, 0xaf488393 # Grfe_larch_seasonal_D
+0xe83e0437, 0xaf488394 # Grfe_larch_seasonal_E

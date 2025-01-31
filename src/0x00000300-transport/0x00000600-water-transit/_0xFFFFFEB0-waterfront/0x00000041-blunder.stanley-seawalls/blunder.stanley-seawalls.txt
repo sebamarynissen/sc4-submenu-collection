@@ -1,0 +1,11 @@
+0xdce32ec4, 0x1eb0a67e # Stanley Seawall
+0xdce32ec4, 0x3eb888f3 # Stanley Seawall
+0xdce32ec4, 0x3eb8891a # Stanley Seawall
+0xdce32ec4, 0x7eb205c5 # Stanley Seawall
+0xdce32ec4, 0x7eb205de # Stanley Seawall
+0xdce32ec4, 0x7eb20795 # Stanley Seawall
+0xdce32ec4, 0x7ebf6fa0 # Stanley Seawall
+0xdce32ec4, 0x9eb61a4e # Stanley Seawall
+0xdce32ec4, 0xdebf6f79 # Stanley Seawall
+0xdce32ec4, 0xfeb88908 # Stanley Seawall
+0xdce32ec4, 0xfebf6f27 # Stanley Seawall

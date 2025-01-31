@@ -1,0 +1,2 @@
+0x27d79b48, 0x0df455a6 # RR Flying J Truck Box
+0x27d79b48, 0x8e1161b5 # RR Flying J Car Box

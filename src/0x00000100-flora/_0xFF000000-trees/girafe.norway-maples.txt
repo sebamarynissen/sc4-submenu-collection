@@ -1,0 +1,9 @@
+Flora:
+0xe83e0437, 0xaf448030 # Grfe_norway_maple_summer_A
+0xe83e0437, 0xaf448031 # Grfe_norway_maple_summer_B
+0xe83e0437, 0xaf448032 # Grfe_norway_maple_summer_C
+0xe83e0437, 0xaf448033 # Grfe_norway_maple_summer_D
+0xe83e0437, 0xaf448040 # Grfe_norway_maple_seasonal_A
+0xe83e0437, 0xaf448041 # Grfe_norway_maple_seasonal_B
+0xe83e0437, 0xaf448042 # Grfe_norway_maple_seasonal_C
+0xe83e0437, 0xaf448043 # Grfe_norway_maple_seasonal_D

@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448670 # Grfe_chestnut_evergreen_A
+0xe83e0437, 0xaf448671 # Grfe_chestnut_evergreen_B
+0xe83e0437, 0xaf448672 # Grfe_chestnut_evergreen_C
+0xe83e0437, 0xaf448673 # Grfe_chestnut_evergreen_D
+0xe83e0437, 0xaf448674 # Grfe_chestnut_evergreen_E
+0xe83e0437, 0xaf448680 # Grfe_chestnut_seasonal_A
+0xe83e0437, 0xaf448681 # Grfe_chestnut_seasonal_B
+0xe83e0437, 0xaf448682 # Grfe_chestnut_seasonal_C
+0xe83e0437, 0xaf448683 # Grfe_chestnut_seasonal_D
+0xe83e0437, 0xaf448684 # Grfe_chestnut_seasonal_E

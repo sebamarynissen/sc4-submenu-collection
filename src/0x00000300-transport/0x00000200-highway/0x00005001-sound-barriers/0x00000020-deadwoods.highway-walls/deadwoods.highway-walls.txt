@@ -1,0 +1,10 @@
+0x07bddf1c, 0x309238c5 # Road Noise Barrier 1tile
+0x07bddf1c, 0x50923945 # Road Noise Barrier 4 tile
+0x07bddf1c, 0x709238cc # Road Noise Barrier 2tile
+0x07bddf1c, 0x71c46128 # Road Noise Barrier 2tile
+0x07bddf1c, 0x71cab5d8 # Road Noise Barrier 1tile
+0x07bddf1c, 0xd1c45d9f # Road Noise Barrier 1tile
+0x07bddf1c, 0xd1c45e44 # Road Noise Barrier 1tile
+0x07bddf1c, 0xd1c45f70 # Road Noise Barrier 2tile
+0x07bddf1c, 0xd1c460b1 # Road Noise Barrier 2tile
+0x07bddf1c, 0xf1c45e16 # Road Noise Barrier 1tile

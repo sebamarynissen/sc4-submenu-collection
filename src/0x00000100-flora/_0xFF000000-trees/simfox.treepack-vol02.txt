@@ -1,0 +1,12 @@
+Flora:
+0xe83e0437, 0x5f83000b # SimFox Willow #3
+0xe83e0437, 0x5f83000c # SimFox Willow #1
+0xe83e0437, 0x5f83000d # SimFox Willow #2
+0xe83e0437, 0x5f83000e # SimFox Small Acer
+0xe83e0437, 0x5f830011 # SimFox Eucaliptus
+0xe83e0437, 0x5f830014 # SimFox Willow 4
+0xe83e0437, 0x5f83001b # SimFox Small Acer
+0xe83e0437, 0x5f83001e # SimFox BigRound
+0xe83e0437, 0x5f830021 # SimFox Large Plane1
+0xe83e0437, 0x5f830022 # SimFox Large Plane2
+0xe83e0437, 0x5f830023 # SimFox Large Plane3

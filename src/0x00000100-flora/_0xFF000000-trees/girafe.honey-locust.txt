@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448690 # Grfe_honey_locust_evergreen_A
+0xe83e0437, 0xaf448691 # Grfe_honey_locust_evergreen_B
+0xe83e0437, 0xaf448692 # Grfe_honey_locust_evergreen_C
+0xe83e0437, 0xaf448693 # Grfe_honey_locust_evergreen_D
+0xe83e0437, 0xaf448694 # Grfe_honey_locust_evergreen_E
+0xe83e0437, 0xaf448700 # Grfe_honey_locust_seasonal_A
+0xe83e0437, 0xaf448701 # Grfe_honey_locust_seasonal_B
+0xe83e0437, 0xaf448702 # Grfe_honey_locust_seasonal_C
+0xe83e0437, 0xaf448703 # Grfe_honey_locust_seasonal_D
+0xe83e0437, 0xaf448704 # Grfe_honey_locust_seasonal_E

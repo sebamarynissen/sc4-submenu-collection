@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0xaf448630 # Grfe_feather_grass_summer_A
+0xe83e0437, 0xaf448631 # Grfe_feather_grass_summer_B
+0xe83e0437, 0xaf448640 # Grfe_feather_grass_seasonal_A
+0xe83e0437, 0xaf448641 # Grfe_feather_grass_seasonal_B

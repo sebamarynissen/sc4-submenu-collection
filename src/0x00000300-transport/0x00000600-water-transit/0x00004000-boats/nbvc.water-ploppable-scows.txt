@@ -1,0 +1,6 @@
+0x947da1d3, 0x19a0cfec # NBVC_PEG_Scow1
+0x947da1d3, 0x19a0ee1a # NBVC_PEG_Scow2
+0x947da1d3, 0x19a0f2c6 # NBVC_PEG_Scow3
+0x947da1d3, 0x59a0f30e # NBVC_PEG_Scow6
+0x947da1d3, 0x79a0f2f3 # NBVC_PEG_Scow5
+0x947da1d3, 0xd9a0f2e1 # NBVC_PEG_Scow4

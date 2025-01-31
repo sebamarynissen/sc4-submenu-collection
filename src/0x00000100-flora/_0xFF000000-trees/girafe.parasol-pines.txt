@@ -1,0 +1,6 @@
+Flora:
+0xe83e0437, 0xaf448070 # Grfe_parasol_pine_summer_A
+0xe83e0437, 0xaf448071 # Grfe_parasol_pine_summer_B
+0xe83e0437, 0xaf448072 # Grfe_parasol_pine_summer_C
+0xe83e0437, 0xaf448073 # Grfe_parasol_pine_summer_D
+0xe83e0437, 0xaf448074 # Grfe_parasol_pine_summer_E

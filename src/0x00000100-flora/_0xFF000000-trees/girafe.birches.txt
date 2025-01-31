@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448000 # Grfe_birch_summer_A
+0xe83e0437, 0xaf448001 # Grfe_birch_summer_B
+0xe83e0437, 0xaf448002 # Grfe_birch_summer_C
+0xe83e0437, 0xaf448003 # Grfe_birch_summer_D
+0xe83e0437, 0xaf448004 # Grfe_birch_summer_E
+0xe83e0437, 0xaf448080 # Grfe_birch_seasonal_A
+0xe83e0437, 0xaf448081 # Grfe_birch_seasonal_B
+0xe83e0437, 0xaf448082 # Grfe_birch_seasonal_C
+0xe83e0437, 0xaf448083 # Grfe_birch_seasonal_D
+0xe83e0437, 0xaf448084 # Grfe_birch_seasonal_E

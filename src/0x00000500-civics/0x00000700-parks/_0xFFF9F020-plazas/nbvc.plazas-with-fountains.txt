@@ -1,0 +1,5 @@
+0x07bddf1c, 0x184fbe35 # NBVC_2x2_Fountain_Plaza2
+0x07bddf1c, 0x384fbe1b # NBVC_2x2_Fountain_Plaza1
+0x07bddf1c, 0x784f997d # NBVC_2x2_Plaza
+0x07bddf1c, 0x784fbd43 # NBVC_2x2_Small_Fountain_Plaza
+0x07bddf1c, 0x784fbdc2 # NBVC_2x2_Squared_Fountain_Plaza

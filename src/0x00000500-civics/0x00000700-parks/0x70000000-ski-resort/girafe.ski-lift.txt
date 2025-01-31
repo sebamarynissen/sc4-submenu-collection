@@ -1,0 +1,4 @@
+0x07bddf1c, 0x395e12f7 # grfe_combi mid pylon
+0x07bddf1c, 0xb95e4207 # grfe_combi end station
+0x07bddf1c, 0xf95e350d # grfe_combi start station
+0x07bddf1c, 0xf95e5b09 # grfe_combi mid cable

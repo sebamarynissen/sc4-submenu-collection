@@ -1,0 +1,7 @@
+0xfac95ee9, 0x1acc7c9c # NBVC_Riprap_Seawall_1x1
+0xfac95ee9, 0x1ad05743 # NBVC_Riprap_Seawall_3x1_Left
+0xfac95ee9, 0x3acd3065 # NBVC_Riprap_Seawall_3x1_Right
+0xfac95ee9, 0x3acd3173 # NBVC_Riprap_Seawall_1x1_IC
+0xfac95ee9, 0xbacf18d6 # NBVC_Riprap_Seawall_2x1_Stairs
+0xfac95ee9, 0xfacf1942 # NBVC_Riprap_Seawall_2x1
+0xfac95ee9, 0xfacfd30e # NBVC_Riprap_Seawall_1x1_OC

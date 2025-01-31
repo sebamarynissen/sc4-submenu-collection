@@ -1,0 +1,4 @@
+0x07bddf1c, 0xb960b102 # grfe_cablecar start station
+0x07bddf1c, 0xd95a329b # grfe_cablecar mid pylon
+0x07bddf1c, 0xf95a320d # grfe_cablecar mid cable
+0x07bddf1c, 0xf95f9c8e # grfe_cablecar end station

@@ -1,0 +1,67 @@
+0x07bddf1c, 0xf8e35bd7 # Belgium Motorway Light Classic - Diag - NG
+0x07bddf1c, 0xf78ed3cc # Belgium Motorway Light Classic - Diag
+0x07bddf1c, 0xd8e35bb0 # Belgium Motorway Light Classic - Orth - NG
+0x07bddf1c, 0xd78ed39c # Belgium Motorway Light Classic - Orth
+0x07bddf1c, 0x974918a6 # Belgium Motorway Light Modern - Diag - NG
+0x07bddf1c, 0x360a6b8a # Belgium Motorway Light Modern - Diag
+0x07bddf1c, 0x7749180f # Belgium Motorway Light Modern - Orth - NG
+0x07bddf1c, 0xf60a6b20 # Belgium Motorway Light Modern - Orth
+0x07bddf1c, 0x18e35bc5 # Belgium Motorway Light Tall - Diag - NG
+0x07bddf1c, 0x774a787f # Belgium Motorway Light Tall - Diag
+0x07bddf1c, 0x18e35b9f # Belgium Motorway Light Tall - Orth - NG
+0x07bddf1c, 0x574a7868 # Belgium Motorway Light Tall - Orth
+0x342e29cb, 0x37875923 # Motorway Median Lamps BE2-RHW4dg - NG
+0x342e29cb, 0x578757d9 # Motorway Median Lamps BE2-RHW4dg
+0x342e29cb, 0xb7875917 # Motorway Median Lamps BE2-RHW4 - NG
+0x342e29cb, 0xb7875771 # Motorway Median Lamps BE2-RHW4
+0x342e29cb, 0x56839970 # Motorway Median Lamps BE1-RHW4dg - NG
+0x342e29cb, 0x96820c3e # Motorway Median Lamps BE1-RHW4dg
+0x342e29cb, 0xf6839964 # Motorway Median Lamps BE1-RHW4 - NG
+0x342e29cb, 0xf67f8d92 # Motorway Median Lamps BE1-RHW4
+0x342e29cb, 0xd7875931 # Motorway Median Lamps BE2-RHW6S - NG
+0x342e29cb, 0xb787578e # Motorway Median Lamps BE2-RHW6S
+0x342e29cb, 0xf68399bc # Motorway Median Lamps BE1-RHW6S - NG
+0x342e29cb, 0xb67f8da3 # Motorway Median Lamps BE1-RHW6S
+0x342e29cb, 0x77875942 # Motorway Median Lamps BE2-RHW6C - NG
+0x342e29cb, 0x578757ac # Motorway Median Lamps BE2-RHW6C
+0x342e29cb, 0xf6839a02 # Motorway Median Lamps BE1-RHW6C - NG
+0x342e29cb, 0x367f8dae # Motorway Median Lamps BE1-RHW6C
+0x342e29cb, 0x77875952 # Motorway Median Lamps BE2-RHW6C+ - NG
+0x342e29cb, 0xd78757c1 # Motorway Median Lamps BE2-RHW6C+
+0x342e29cb, 0x38e35bf4 # Motorway Median Lamps BE1-RHW6C+
+0x342e29cb, 0xd6beb4a3 # Motorway Median Lamps BE1-RHW6C+
+0x166aa05e, 0x58e318a4 # Motorway Sign (B) - Announcement Exit
+0x166aa05e, 0x3822cb38 # Motorway Sign (B) - Interchange Motorway
+0x166aa05e, 0xd822cb46 # Motorway Sign (B) - Interchange European Motorway
+0x166aa05e, 0xb822cb57 # Motorway Sign (B) - Exit
+0x166aa05e, 0x98e3191c # Motorway Sign (B) - Distances
+0x166aa05e, 0x18e31a7c # Motorway Sign (B) - Motorway Left
+0x166aa05e, 0xd8e31ab4 # Motorway Sign (B) - Motorway Right
+0x166aa05e, 0x58e31a95 # Motorway Sign (B) - European Motorway Left
+0x166aa05e, 0x18e31ac2 # Motorway Sign (B) - E-route Right
+0x166aa05e, 0xd8e318d5 # Motorway Sign (B) - Announcement Interchange
+0x166aa05e, 0x98e31a3f # Motorway Sign (B) - Motorway Start
+0x166aa05e, 0x38e31a53 # Motorway Sign (B) - Motorway End
+0x166aa05e, 0x98e31906 # Motorway Sign (B) - Announcement Service Station
+0x166aa05e, 0x18e31852 # Motorway Sign (B) - Interchange Motorway, 800m (M)
+0x166aa05e, 0x58e3179a # Motorway Sign (B) - Exit (M)(RHW-6S)
+0x166aa05e, 0xd8e317b3 # Motorway Sign (B) - Interchange Motorway (M)(RHW-8S Splitter)
+0x166aa05e, 0xd8e3186f # Motorway Sign (B) - Interchange European Motorway, 800m (M)
+0x166aa05e, 0xb8e31947 # Motorway Sign (B) - Interchange European Motorway (M)(RHW-6S)
+0x166aa05e, 0x38e3187e # Motorway Sign (B) - Exit, 800m (M)
+0x166aa05e, 0x38e31a17 # Motorway Sign (B) - Interchange Motorway (M)(RHW-6S)
+0x166aa05e, 0x3822c809 # Motorway Sign (B) - Interchange Motorway, 800m (EM)
+0x166aa05e, 0xb8e317ce # Motorway Sign (B) - Interchange Motorway (EM)(RHW-6C)
+0x166aa05e, 0xd822c8fd # Motorway Sign (B) - Interchange Motorway (EM)
+0x166aa05e, 0xb8e317e9 # Motorway Sign (B) - Interchange Motorway (EM)(RHW-8S Splitter)
+0x166aa05e, 0x18e317f7 # Motorway Sign (B) - Interchange Motorway (EM)(RHW-8S)
+0x166aa05e, 0x9822c822 # Motorway Sign (B) - Interchange European Motorway, 800m (EM)
+0x166aa05e, 0xf8e31975 # Motorway Sign (B) - Interchange European Motorway (EM)(RHW-6C)
+0x166aa05e, 0xf822c8ca # Motorway Sign (B) - Interchange European Motorway (EM)(RHW-6S)
+0x166aa05e, 0x38e3198d # Motorway Sign (B) - Interchange European Motorway (EM)(RHW-8S Splitter)
+0x166aa05e, 0x98e319ab # Motorway Sign (B) - Exit (EM)(RHW-8S)
+0x166aa05e, 0xb822c833 # Motorway Sign (B) - Exit, 800m (EM)
+0x166aa05e, 0x18e319de # Motorway Sign (B) - Exit (EM)(RHW-6C)
+0x166aa05e, 0x7822c934 # Motorway Sign (B) - Exit (EM)(RHW-6S)
+0x166aa05e, 0x98e319f1 # Motorway Sign (B) - Exit (EM)(RHW-8S Splitter)
+0x166aa05e, 0x58e31a02 # Motorway Sign (B) - Interchange European Motorway (EM)(RHW-8S)

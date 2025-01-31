@@ -1,0 +1,6 @@
+0x7cc07882, 0x392eff73 # SM2 Billboards SBC Vol2
+0x7cc07882, 0x592efe8d # SM2 Billboards Vol2
+0x7cc07882, 0x69302967 # SM2 Billboards WB Vol2
+0x7cc07882, 0x892efe18 # SM2 Billboards Vol1
+0x7cc07882, 0x892efedb # SM2 Billboards SBC Vol1
+0x7cc07882, 0xc930263a # SM2 Billboards WB Vol1

@@ -1,6 +1,11 @@
 # Folder where we store all submenus to be unpacked
 unpack_me/
 
+# We never include sc4 files so that we can happily paste them inside their 
+# destination folders without accidentally getting committed.
+src/**/*.dat
+src**/*.sc4*
+
 # Logs
 logs
 *.log

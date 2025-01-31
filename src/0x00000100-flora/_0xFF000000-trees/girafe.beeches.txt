@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448610 # Grfe_beech_evergreen_A
+0xe83e0437, 0xaf448611 # Grfe_beech_evergreen_B
+0xe83e0437, 0xaf448612 # Grfe_beech_evergreen_C
+0xe83e0437, 0xaf448613 # Grfe_beech_evergreen_D
+0xe83e0437, 0xaf448614 # Grfe_beech_evergreen_E
+0xe83e0437, 0xaf448620 # Grfe_beech_seasonal_A
+0xe83e0437, 0xaf448621 # Grfe_beech_seasonal_B
+0xe83e0437, 0xaf448622 # Grfe_beech_seasonal_C
+0xe83e0437, 0xaf448623 # Grfe_beech_seasonal_D
+0xe83e0437, 0xaf448624 # Grfe_beech_seasonal_E

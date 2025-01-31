@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf448210 # Grfe_ash_summer_A
+0xe83e0437, 0xaf448211 # Grfe_ash_summer_B
+0xe83e0437, 0xaf448212 # Grfe_ash_summer_C
+0xe83e0437, 0xaf448213 # Grfe_ash_summer_D
+0xe83e0437, 0xaf448214 # Grfe_ash_summer_E
+0xe83e0437, 0xaf448220 # Grfe_ash_seasonal_A
+0xe83e0437, 0xaf448221 # Grfe_ash_seasonal_B
+0xe83e0437, 0xaf448222 # Grfe_ash_seasonal_C
+0xe83e0437, 0xaf448223 # Grfe_ash_seasonal_D
+0xe83e0437, 0xaf448224 # Grfe_ash_seasonal_E

@@ -1,0 +1,6 @@
+0x163f321b, 0x67ff43bd # KOSC_SoftballField_45_$$$
+0x163f321b, 0x87fc51d0 # KOSC_SoftballField_$$$
+0x163f321b, 0xb7ff2ddf # KOSC_SoftballField_45_$
+0x163f321b, 0xc7f9ceba # KOSC_SoftballField_45_$$
+0x163f321b, 0xe7f75f8e # KOSC_SoftballField_$$
+0x163f321b, 0xe7fcb8ef # KOSC_SoftballField_$

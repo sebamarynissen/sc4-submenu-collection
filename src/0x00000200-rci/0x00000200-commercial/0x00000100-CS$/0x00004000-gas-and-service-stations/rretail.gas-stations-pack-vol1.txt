@@ -1,0 +1,17 @@
+0x27d79b48, 0x0b4ee3af # RR Kmart Express Gas
+0x27d79b48, 0x2b5006d0 # RR Albertsons Express Gas
+0x27d79b48, 0x4b4871e5 # RR Walmart Gas Blue
+0x27d79b48, 0x6b497c73 # RR Dillions Gas
+0x27d79b48, 0x6b497e65 # RR King Soopers Gas
+0x27d79b48, 0x6b49b2b1 # RR Meijer Gas Box
+0x27d79b48, 0x6b50417b # RR GetGo Box
+0x27d79b48, 0x8b50062d # RR Family Fare Quick Stop Gas 2
+0x27d79b48, 0x8b502df5 # RR HyVee Gas
+0x27d79b48, 0x8b9e0c09 # RR Sheetz V2
+0x27d79b48, 0xab498829 # RR Kroger Gas
+0x27d79b48, 0xab4da957 # RR Safeway Gas
+0x27d79b48, 0xab4ee91b # RR Murphys Express Gas
+0x27d79b48, 0xab502f53 # RR Jewel Express Gas
+0x27d79b48, 0xcb497dc5 # RR Frys Gas
+0x27d79b48, 0xeb4872c0 # RR Walmart Gas Lime
+0x27d79b48, 0xeb4988ea # RR Smiths Gas

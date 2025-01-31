@@ -1,0 +1,7 @@
+Flora:
+0xe83e0437, 0xaf449140 # Grfe_bush_summer_A
+0xe83e0437, 0xaf449141 # Grfe_bush_summer_B
+0xe83e0437, 0xaf449142 # Grfe_bush_summer_C
+0xe83e0437, 0xaf449145 # Grfe_bush_seasonal_A
+0xe83e0437, 0xaf449146 # Grfe_bush_seasonal_B
+0xe83e0437, 0xaf449147 # Grfe_bush_seasonal_C

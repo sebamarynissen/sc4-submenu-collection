@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf447700 # Grfe_poplar_evergreen_A
+0xe83e0437, 0xaf447701 # Grfe_poplar_evergreen_B
+0xe83e0437, 0xaf447702 # Grfe_poplar_evergreen_C
+0xe83e0437, 0xaf447703 # Grfe_poplar_evergreen_D
+0xe83e0437, 0xaf447704 # Grfe_poplar_evergreen_E
+0xe83e0437, 0xaf447710 # Grfe_poplar_seasonal_A
+0xe83e0437, 0xaf447711 # Grfe_poplar_seasonal_B
+0xe83e0437, 0xaf447712 # Grfe_poplar_seasonal_C
+0xe83e0437, 0xaf447713 # Grfe_poplar_seasonal_D
+0xe83e0437, 0xaf447714 # Grfe_poplar_seasonal_E

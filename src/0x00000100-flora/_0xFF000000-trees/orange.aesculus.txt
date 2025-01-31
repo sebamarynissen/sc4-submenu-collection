@@ -1,0 +1,13 @@
+Flora:
+0xe83e0437, 0x78da2003 # VIP_Or_FL_Aesculus_Seasonal_00
+0xe83e0437, 0x78da2004 # VIP_Or_FL_Aesculus_Seasonal_01
+0xe83e0437, 0x78da2005 # VIP_Or_FL_Aesculus_Seasonal_02
+0xe83e0437, 0x78da2006 # VIP_Or_FL_Aesculus_Seasonal_03
+0xe83e0437, 0x78da2007 # VIP_Or_FL_Aesculus_Seasonal_04
+0xe83e0437, 0x78da2008 # VIP_Or_FL_Aesculus_Seasonal_05
+0xe83e0437, 0x78da2009 # VIP_Or_FL_Aesculus_Summer_00
+0xe83e0437, 0x78da200a # VIP_Or_FL_Aesculus_Summer_01
+0xe83e0437, 0x78da200b # VIP_Or_FL_Aesculus_Summer_02
+0xe83e0437, 0x78da200c # VIP_Or_FL_Aesculus_Summer_03
+0xe83e0437, 0x78da200d # VIP_Or_FL_Aesculus_Summer_04
+0xe83e0437, 0x78da200e # VIP_Or_FL_Aesculus_Summer_05

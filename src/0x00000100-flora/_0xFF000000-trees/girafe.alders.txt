@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0xaf447720 # Grfe_alder_evergreen_A
+0xe83e0437, 0xaf447721 # Grfe_alder_evergreen_B
+0xe83e0437, 0xaf447722 # Grfe_alder_evergreen_C
+0xe83e0437, 0xaf447723 # Grfe_alder_evergreen_D
+0xe83e0437, 0xaf447724 # Grfe_alder_evergreen_E
+0xe83e0437, 0xaf447730 # Grfe_alder_seasonal_A
+0xe83e0437, 0xaf447731 # Grfe_alder_seasonal_B
+0xe83e0437, 0xaf447732 # Grfe_alder_seasonal_C
+0xe83e0437, 0xaf447733 # Grfe_alder_seasonal_D
+0xe83e0437, 0xaf447734 # Grfe_alder_seasonal_E

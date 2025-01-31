@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0xaf448440 # Grfe_common_spruce_summer_A
+0xe83e0437, 0xaf448441 # Grfe_common_spruce_summer_B
+0xe83e0437, 0xaf448442 # Grfe_common_spruce_summer_C
+0xe83e0437, 0xaf448443 # Grfe_common_spruce_summer_D
+0xe83e0437, 0xaf448444 # Grfe_common_spruce_summer_E
+0xe83e0437, 0xaf448450 # Grfe_common_spruce_winter_A
+0xe83e0437, 0xaf448451 # Grfe_common_spruce_winter_B
+0xe83e0437, 0xaf448452 # Grfe_common_spruce_winter_C
+0xe83e0437, 0xaf448453 # Grfe_common_spruce_winter_D
+0xe83e0437, 0xaf448454 # Grfe_common_spruce_winter_E
+0xe83e0437, 0xaf448460 # Grfe_common_spruce_seasonal_A
+0xe83e0437, 0xaf448461 # Grfe_common_spruce_seasonal_B
+0xe83e0437, 0xaf448462 # Grfe_common_spruce_seasonal_C
+0xe83e0437, 0xaf448463 # Grfe_common_spruce_seasonal_D
+0xe83e0437, 0xaf448464 # Grfe_common_spruce_seasonal_E

@@ -1,0 +1,7 @@
+Flora:
+0xe83e0437, 0x4b7c0f21 # NBVC_HighRock4MMP
+0xe83e0437, 0x4b7c0f22 # NBVC_HighRock8MMP
+0xe83e0437, 0x4b7c0f23 # NBVC_HighRock7MMP
+0xe83e0437, 0x4b7c0f24 # NBVC_HighRock6MMP
+0xe83e0437, 0x4b7c0f25 # NBVC_HighRock3MMP
+0xe83e0437, 0x4b7c0f26 # NBVC_HighRock5MMP

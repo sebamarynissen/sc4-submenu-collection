@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0xaf448510 # Grfe_sparaxis_summer_A
+0xe83e0437, 0xaf448511 # Grfe_sparaxis_summer_B
+0xe83e0437, 0xaf448520 # Grfe_sparaxis_seasonal_A
+0xe83e0437, 0xaf448521 # Grfe_sparaxis_seasonal_B

@@ -9,7 +9,8 @@
   "scripts": {
     "lint": "node build/lint.js",
     "build": "node build/build.js",
-    "unpack": "sc4 submenu unpack unpack_me -o src"
+    "unpack": "sc4 submenu unpack unpack_me -o src",
+    "transform": "node scripts/transform.js"
   },
   "repository": {
     "type": "git",
@@ -29,7 +30,7 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "glob": "^11.0.0",
-    "sc4": "^0.2.0",
+    "sc4": "^0.2.15",
     "yaml": "^2.7.0"
   },
   "devDependencies": {

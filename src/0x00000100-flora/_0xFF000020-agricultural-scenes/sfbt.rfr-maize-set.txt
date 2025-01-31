@@ -1,0 +1,21 @@
+Flora:
+0xe83e0437, 0x5f85bd45 # MaizeStamps
+0xe83e0437, 0x5f85bd48 # Maisstoppel2
+0xe83e0437, 0x5f85bd49 # Mais01
+0xe83e0437, 0x5f85bd4a # Mais02
+0xe83e0437, 0x5f85bd62 # Maize_Chopper01
+0xe83e0437, 0x5f85bd63 # Maize_Chopper02
+0xe83e0437, 0x5f85bd64 # Maize_Chopper03
+0xe83e0437, 0x5f85bd65 # Maize_Chopper04
+0xe83e0437, 0x5f85bd66 # Maize_Trailer01
+0xe83e0437, 0x5f85bd67 # Maize_Trailer02
+0xe83e0437, 0x5f85bd68 # Maize_Trailer03
+0xe83e0437, 0x5f85bd69 # Maize_Trailer04
+0xe83e0437, 0x5f85bd6a # Maize_Trailer05
+0xe83e0437, 0x5f85bd6b # Blank
+0xe83e0437, 0x5f85bd6c # Blank
+0xe83e0437, 0x5f85bd7c # Deutz Agrotron X 710
+0xe83e0437, 0x5f85bd7d # Blank
+0xe83e0437, 0xff5f806d # SFBT_Miete01
+0xe83e0437, 0xff5f806e # SFBT_Miete02
+0xe83e0437, 0xff5f806f # SFBT_Misthaufen

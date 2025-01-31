@@ -1,0 +1,6 @@
+Flora:
+0xe83e0437, 0x4b7c2921 # NBVC_Wreck1_MMP
+0xe83e0437, 0x4b7c2922 # NBVC_Wreck2_MMP
+0xe83e0437, 0x4b7c2923 # NBVC_Wreck4
+0xe83e0437, 0x4b7c2924 # NBVC_Wreck5
+0xe83e0437, 0x4b7c2925 # NBVC_Wreck3

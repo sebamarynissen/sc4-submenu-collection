@@ -1,0 +1,17 @@
+0x07bddf1c, 0x1822fd5b # PEG-SR_ChairLift
+0x07bddf1c, 0x382b629b # PEG-SR_1x-ParkingLot_End
+0x07bddf1c, 0x382ca7a3 # PEG-SR_SafetyNet_Corner
+0x07bddf1c, 0x383612e1 # PEG-SR_1x-_URhere
+0x07bddf1c, 0x582bf053 # PEG-SR_ChairLift_DIAG
+0x07bddf1c, 0x58336c83 # PEG-SR_1x-_Snow Boarders
+0x07bddf1c, 0x58336c83 # PEG-SR_1x-_SnowBoarders
+0x07bddf1c, 0x782ffc35 # PEG-SR_Base Lodge
+0x07bddf1c, 0x7837d1be # PEG-SR_SkiResort-Sign
+0x07bddf1c, 0x982b67b4 # PEG-SR_3x-ParkingLot
+0x07bddf1c, 0x982ca5e1 # PEG-SR_1x-_Skiers
+0x07bddf1c, 0x982ca5e1 # PEG-SR_1x-_Skiers
+0x07bddf1c, 0x983853fb # PEG-SR_SkiResort-Billboard
+0x07bddf1c, 0xb8293d9c # PEG-SR_LiftTicketSales
+0x07bddf1c, 0xb82ca717 # PEG-SR_SafetyNet_DIAG
+0x07bddf1c, 0xd83768d7 # PEG-SR_SkiSchool
+0x07bddf1c, 0xf82ca66a # PEG-SR_SafetyNet_1x

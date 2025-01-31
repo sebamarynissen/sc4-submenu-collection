@@ -1,0 +1,10 @@
+Flora:
+0xe83e0437, 0x19620160 # R6_VIP_RochersMousse
+0xe83e0437, 0x19620161 # R6_VIP_RochersMousseSmall01
+0xe83e0437, 0x19620162 # R6_VIP_RochersMousseSmall02
+0xe83e0437, 0x19620163 # R6_VIP_RochersMousseSmall03
+0xe83e0437, 0x19620164 # R6_VIP_RochersMousseSmall04
+0xe83e0437, 0x19620165 # R6_VIP_RochersMousseBig01
+0xe83e0437, 0x19620166 # R6_VIP_RochersMousseBig02
+0xe83e0437, 0x19620167 # R6_VIP_RochersMousseBig03
+0xe83e0437, 0x19620168 # R6_VIP_RochersMousseBig04

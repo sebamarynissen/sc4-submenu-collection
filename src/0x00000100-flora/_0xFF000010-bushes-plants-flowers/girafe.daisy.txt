@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0xaf448570 # Grfe_daisy_seasonal_A
+0xe83e0437, 0xaf448571 # Grfe_daisy_seasonal_B
+0xe83e0437, 0xaf448580 # Grfe_daisy_summer_A
+0xe83e0437, 0xaf448581 # Grfe_daisy_summer_B

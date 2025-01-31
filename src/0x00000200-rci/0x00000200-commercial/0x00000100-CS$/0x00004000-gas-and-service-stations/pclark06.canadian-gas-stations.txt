@@ -1,0 +1,2 @@
+0xbf2aa679, 0x0fe2c61b # PC Ultramar
+0xbf2aa679, 0x4fe2c651 # PC Pioneer

@@ -1,0 +1,4 @@
+0x163f321b, 0x69294668 # IRM_I-HT_Filler_WallStraight_MixedChassisAM
+0x163f321b, 0x69ef06e4 # IRM_I-HT_Filler_WallStraight_TempOfficesAM
+0x163f321b, 0x78fadb57 # IRM_I-HT_Filler_WallStraight_TarpedTrailersAM
+0x163f321b, 0xb8fa2bab # IRM_I-HT_Filler_WallStraight_Trailers53AM

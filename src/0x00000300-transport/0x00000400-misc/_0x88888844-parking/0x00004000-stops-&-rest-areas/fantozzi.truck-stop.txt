@@ -1,0 +1,2 @@
+0xb517dcf2, 0x675136e3 # Truck Stop A
+0xb517dcf2, 0x67513b5d # Truck Stop B

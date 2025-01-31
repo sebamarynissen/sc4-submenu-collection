@@ -1,0 +1,58 @@
+Flora:
+0xe83e0437, 0x19620020 # R6_VIP_plop_Nenuphars
+0xe83e0437, 0x19620021 # R6_VIP_plop_Nenuphar01
+0xe83e0437, 0x19620022 # R6_VIP_plop_Nenuphar02
+0xe83e0437, 0x19620023 # R6_VIP_plop_Nenuphar03
+0xe83e0437, 0x19620024 # R6_VIP_plop_Nenuphar04
+0xe83e0437, 0x19620030 # R6_VIP_ploppable_RoseauxSmall01
+0xe83e0437, 0x19620031 # R6_VIP_ploppable_RoseauxSmall02
+0xe83e0437, 0x19620032 # R6_VIP_ploppable_RoseauxSmall03
+0xe83e0437, 0x19620070 # R6_VIP_ploppable_RoseauxBig01
+0xe83e0437, 0x19620071 # R6_VIP_ploppable_RoseauxBig02
+0xe83e0437, 0x19620072 # R6_VIP_ploppable_RoseauxBig03
+0xe83e0437, 0x19620074 # R6_VIP_ploppable_HPampaBig01
+0xe83e0437, 0x19620075 # R6_VIP_ploppable_HPampBig02
+0xe83e0437, 0x19620076 # R6_VIP_ploppable_HPampaBig03
+0xe83e0437, 0x19620080 # R6_VIP_ploppable_HPampaSmall01
+0xe83e0437, 0x19620081 # R6_VIP_ploppable_HPampaSmall02
+0xe83e0437, 0x19620082 # R6_VIP_ploppable_HPampaSmall03
+0xe83e0437, 0x19620130 # R6_VIP_Iris des Marais01
+0xe83e0437, 0x19620131 # R6_VIP_Iris des Marais02
+0xe83e0437, 0x19620132 # R6_VIP_Iris des Marais03
+0xe83e0437, 0x19620100 # R6_VIP_plop_Potamot
+0xe83e0437, 0x19620101 # R6_VIP_plop_Potamot01
+0xe83e0437, 0x19620102 # R6_VIP_plop_Potamot02
+0xe83e0437, 0x19620103 # R6_VIP_plop_Potamot03
+0xe83e0437, 0x19620104 # R6_VIP_plop_Potamot04
+0xe83e0437, 0x19620170 # VV_Pecheur01
+0xe83e0437, 0x19620171 # VV_Pecheu02
+0xe83e0437, 0x19620172 # VV_Pecheur03
+0xe83e0437, 0x19620173 # VV_Pecheur04
+0xe83e0437, 0x19620174 # VV_Pecheur05
+0xe83e0437, 0x19620175 # VV_Pecheur06
+0xe83e0437, 0x19620176 # VV_Pecheur07
+0xe83e0437, 0x19620177 # VV_Pecheur08
+0xe83e0437, 0x19620178 # VV_Pecheur09
+0xe83e0437, 0x19620179 # VV_Pecheur10
+0xe83e0437, 0x1962017a # VV_Pecheur11
+0xe83e0437, 0x1962017b # VV_Pecheur12
+0xe83e0437, 0x19620110 # VIP_plop_Kayak&Zodiacs
+0xe83e0437, 0x19620111 # VIP_plop_KayakRemorquePleine
+0xe83e0437, 0x19620112 # VIP_plop_KayakVide01
+0xe83e0437, 0x19620113 # VIP_plop_KayakVide02
+0xe83e0437, 0x19620114 # VIP_plop_Kayakiste01
+0xe83e0437, 0x19620115 # VIP_plop_Kayakiste02
+0xe83e0437, 0x19620116 # VIP_plop_Kayakiste03
+0xe83e0437, 0x19620117 # VIP_plop_ZodiacVide01
+0xe83e0437, 0x19620118 # VIP_plop_ZodiacVide02
+0xe83e0437, 0x19620119 # VIP_plop_ZodiacVide03
+0xe83e0437, 0x19620120 # VIP_plop_ZodiacOccup 01
+0xe83e0437, 0x19620121 # VIP_plop_ZodiacOccup 02
+0xe83e0437, 0x19620122 # VIP_plop_ZodiacOccup 03
+0xe83e0437, 0x19620096 # VV_VIP_ploppabe_Barque01
+0xe83e0437, 0x19620097 # VV_VIP_ploppable_Barque02
+0xe83e0437, 0x19620098 # VV_VIP_ploppable_Barque03
+0xe83e0437, 0x19620099 # VV_VIP_ploppable_Barque04
+0xe83e0437, 0x1962009a # VV_TSC_ploppable_Fougere05
+0xe83e0437, 0x1962009b # VV_TSC_ploppable_Fougere06
+
