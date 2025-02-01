@@ -1,0 +1,7 @@
+Flora:
+0xe83e0437, 0x78da1030 # Or_TSC_Flplop_PinusNigra
+0xe83e0437, 0x78da1031 # zzoff_plop_PinusNigra01
+0xe83e0437, 0x78da1032 # zzoff_plop_PinusNigra02
+0xe83e0437, 0x78da1033 # zzoff_plop_PinusNigra03
+0xe83e0437, 0x78da1034 # zzoff_plop_PinusNigra04
+0xe83e0437, 0x78da1035 # zzoff_plop_PinusNigra05

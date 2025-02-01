@@ -1,0 +1,11 @@
+Flora:
+0xe83e0437, 0x78da103d # Or_TSC_Murets01_11
+0xe83e0437, 0x78da103e # Or_TSC_Murets01_67
+0xe83e0437, 0x78da103f # Or_TSC_Murets01_33
+0xe83e0437, 0x78da1040 # Or_TSC_Murets02_90
+0xe83e0437, 0x78da1041 # Or_TSC_Murets03_11
+0xe83e0437, 0x78da1042 # Or_TSC_Murets04_11
+0xe83e0437, 0x78da1043 # Or_TSC_Murets05_11
+0xe83e0437, 0x78da1044 # Or_TSC_Murets06_11
+0xe83e0437, 0x78da1046 # Or_TSC_Murets08_67
+0xe83e0437, 0x78de1045 # Or_TSC_Murets07_11

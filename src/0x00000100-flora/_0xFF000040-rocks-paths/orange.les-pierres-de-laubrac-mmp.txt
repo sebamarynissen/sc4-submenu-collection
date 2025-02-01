@@ -1,0 +1,12 @@
+Flora:
+0xe83e0437, 0x78da1000 # Or_TSC_Les_Pierres_de_lAubrac
+0xe83e0437, 0x78da1001 # zzoff_plop_Muret01
+0xe83e0437, 0x78da1002 # zzoff_plop_Muret02
+0xe83e0437, 0x78da1003 # zzoff_plop_Muret03
+0xe83e0437, 0x78da1004 # zzoff_plop_Muret04
+0xe83e0437, 0x78da1005 # zzoff_plop_Muret05
+0xe83e0437, 0x78da1006 # zzoff_plop_Muret06
+0xe83e0437, 0x78da1007 # zzoff_plop_Muret07
+0xe83e0437, 0x78da1008 # zzoff_plop_Muret10
+0xe83e0437, 0x78da1009 # zzoff_plop_Muret09
+0xe83e0437, 0x78da100a # zzoff_plop_Muret08

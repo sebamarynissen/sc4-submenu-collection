@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0x78da1036 # Or_TSC_Flplop_Cupressus
+0xe83e0437, 0x78da1037 # zzoff_plop_Cupressus01
+0xe83e0437, 0x78da1038 # zzoff_plop_Cupressus02
+0xe83e0437, 0x78da1039 # zzoff_plop_Cupressus03
