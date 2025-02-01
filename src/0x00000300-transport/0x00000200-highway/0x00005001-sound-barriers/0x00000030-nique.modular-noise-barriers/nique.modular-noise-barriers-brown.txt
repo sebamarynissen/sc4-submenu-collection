@@ -1,0 +1,10 @@
+0x717fc231, 0x318a5f52 # NQ MNB Brown Straight 3-1-0 Bridge
+0x717fc231, 0x718a5fca # NQ MNB Brown Straight 4-1-0 Bridge
+0x717fc231, 0x918a6036 # NQ MNB Brown Straight 0-1-3 Bridge
+0x717fc231, 0xa18a607b # NQ MNB Brown Straight 0-1-4 Bridge
+0x717fc231, 0xb18a57e5 # NQ MNB Brown Straight 1-1-1 DownUp
+0x717fc231, 0xc18a1a58 # NQ MNB Brown Straight 0-1-0 Normal
+0x717fc231, 0xc18a5dae # NQ MNB Brown Straight 0-1-2 Bridge
+0x717fc231, 0xd18a278b # NQ MNB Brown Straight 1-1-0 Normal
+0x717fc231, 0xd18a5ace # NQ MNB Brown Straight 1-1-1 UpDown
+0x717fc231, 0xd18a5bee # NQ MNB Brown Straight 2-1-0 Bridge
