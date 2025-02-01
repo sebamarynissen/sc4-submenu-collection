@@ -48,7 +48,8 @@ jobs:
 
       - name: Compress Build Artifact
         run: |
-          zip -r dist/submenus.zip dist
+          cd dist
+          zip -r submenus.zip buttons patches
 
       - name: Create GitHub Release
         id: create_release
