@@ -1,0 +1,63 @@
+name: Release on PR Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  release:
+    if: github.event.pull_request.merged == true && github.base_ref == 'main'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Required to get all tags for versioning
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: package.json
+
+      - name: Determine Next Version
+        id: version
+        run: |
+          latest_tag=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
+          echo "Latest tag: $latest_tag"
+          
+          latest_version=${latest_tag#v}
+          IFS='.' read -r major minor patch <<< "$latest_version"
+          
+          new_version="v$major.$minor.$((patch + 1))"
+          echo "New version: $new_version"
+          
+          echo "new_version=$new_version" >> $GITHUB_ENV
+
+      - name: Run Build Script
+        run: npm run build
+
+      - name: Compress Build Artifact
+        run: |
+          zip -r dist/submenus.zip dist
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.new_version }}
+          release_name: "Release ${{ env.new_version }}"
+          draft: false
+          prerelease: false
+          files: dist/submenus.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Output Release URL
+        run: echo "Release created at ${{ steps.create_release.outputs.html_url }}"
