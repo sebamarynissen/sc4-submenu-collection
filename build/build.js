@@ -20,11 +20,43 @@ await fs.promises.mkdir(dist);
 await fs.promises.mkdir(path.join(dist, 'buttons'));
 await fs.promises.mkdir(path.join(dist, 'patches'));
 
-const patches = {};
+// # collectTargets()
+// The function called to collect all menu ids per TGI item. Once this is 
+// complete, we can actually generate the patches.
+const db = {};
+async function collectTargets({ dir, menu, files }) {
+	for (let file of files) {
+		let slug = path.basename(file, path.extname(file));
+		let contents = String(await fs.promises.readFile(path.join(dir, file)));
+		let type = 'lots';
+		let lines = contents
+			.split('\n')
+			.map(x => x.trim())
+			.filter(line => !!line && !line.startsWith('#'));
+		for (let line of lines) {
+			if (line.startsWith('Flora:')) {
+				type = 'flora';
+				continue;
+			}
+			let [ids, name] = line.split('#');
+			let [group, instance] = ids.trim().split(',');
+			let tgi = new TGI(FileType.Exemplar, +group, +instance);
+			let pkg = db[slug] ??= {};
+			let row = pkg[tgi] ??= {
+				type,
+				tgi,
+				name: name?.trim(),
+				menus: new Set(),
+			};
+			row.menus.add(menu.id);
+		}
+	}
+}
+
 await traverse.directories(async (info) => {
 
 	// Create all the patches from the individual files.
-	await createPatches(info);
+	await collectTargets(info);
 
 	// IMPORTANT! We don't need to generate submenus *buttons* for any of the 
 	// builtin menus, these are alread handled obviously. However, for some 
@@ -60,51 +92,38 @@ await traverse.directories(async (info) => {
 
 });
 
-for (let slug of Object.keys(patches)) {
-	let output = path.join(dist, 'patches', `${slug}.dat`);
-	let dbpf = new DBPF();
-	for (let cohort of patches[slug]) {
-		dbpf.add(cohort.tgi, cohort.read());
-	}
-	await fs.promises.writeFile(output, dbpf.toBuffer());
-}
-
-// # createPatches()
-// Creates the Exemplar patch dbpfs.
-async function createPatches({ dir, menu, files }) {
-	for (let file of files) {
-		let contents = String(await fs.promises.readFile(path.join(dir, file)));
-		let targets = { lots: [], flora: [] };
-		let pivot = targets.lots;
-		let lines = contents
-			.split('\n')
-			.map(x => x.trim())
-			.filter(line => !!line && !line.startsWith('#'));
-		for (let line of lines) {
-			if (line.startsWith('Flora:')) {
-				pivot = targets.flora;
-			}
-			let [ids, name] = line.split('#');
-			let [group, instance] = ids.trim().split(',');
+// Cool, all tgis per file have been collected. We will now group them by what 
+// menus they need to appear in. Those will become the cohorts.
+for (let slug of Object.keys(db)) {
+	let tgis = Object.values(db[slug]);
+	let grouped = Object.groupBy(tgis, entry => {
+		let menus = [...entry.menus].sort();
+		return menus.join('/');
+	});
+	let cohorts = [];
+	for (let group of Object.values(grouped)) {
+		let targets = {};
+		for (let entry of group) {
+			let pivot = targets[entry.type] ??= [];
 			pivot.push({
-				tgi: new TGI(FileType.Exemplar, +group, +instance),
-				name,
+				tgi: entry.tgi,
+				name: entry.name,
 			});
 		}
-
-		let slug = path.basename(file, path.extname(file));
+		let [{ menus: [...menus] }] = group;
 		let dbpf = await createSubmenuPatch({
-			menu: menu.id,
 			targets,
+			menu: menus,
 		});
-		if (!dbpf) {
-			console.warn(styleText('yellow', `${file} contains no exeplars`));
-			continue;
-		};
-		let cohorts = dbpf.findAll({ type: FileType.Cohort });
-		patches[slug] ??= [];
-		patches[slug].push(...cohorts);
+		let patches = dbpf.findAll({ type: FileType.Cohort });
+		cohorts.push(...patches);
 	}
+	let dbpf = new DBPF();
+	for (let cohort of cohorts) {
+		dbpf.add(cohort.tgi, cohort.read());
+	}
+	let output = path.join(dist, 'patches', `${slug}.dat`);
+	await fs.promises.writeFile(output, dbpf.toBuffer());
 }
 
 // # slugify(name)
