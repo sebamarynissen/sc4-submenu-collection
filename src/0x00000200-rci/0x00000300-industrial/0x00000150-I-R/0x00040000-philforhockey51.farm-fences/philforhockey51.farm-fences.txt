@@ -1,0 +1,58 @@
+0x93444a91, 0x045f0cdc # PHIL-Farm Fence-ALN Brown-Pasture-Par-Diag3
+0x93444a91, 0x046772bb # PHIL-Farm Fence-ALN Brown-Pasture-Par-Ext Gate L
+0x93444a91, 0x145f5f1c # PHIL-Farm Fence-ALN Brown-Field 2-Par-Diag1
+0x93444a91, 0x145f66eb # PHIL-Farm Fence-ALN Brown-Field 2-Per-Diag2
+0x93444a91, 0x24609df3 # PHIL-Farm Fence-SPAM White-Pasture-Par-Str1
+0x93444a91, 0x24624b24 # PHIL-Farm Fence-ALN Brown-Pasture-Par-Crnr Rnd
+0x93444a91, 0x246279f9 # PHIL-Farm Fence-Misc Items-Field 1-Right-Dirt Gap
+0x93444a91, 0x24676487 # PHIL-Farm Fence-ALN Brown-Pasture-Par-Ext Diag
+0x93444a91, 0x34609f12 # PHIL-Farm Fence-SPAM White-Pasture-Par-Str2
+0x93444a91, 0x3462761c # PHIL-Farm Fence-Misc Items-Field 1-Left-Dirt Gap
+0x93444a91, 0x34627b9d # PHIL-Farm Fence-Misc Items-Field 2-Right-Dirt Gap
+0x93444a91, 0x34676f4f # PHIL-Farm Fence-ALN Brown-Pasture-Par-Ext R
+0x93444a91, 0x445f6560 # PHIL-Farm Fence-ALN Brown-Field 2-Per-Diag1
+0x93444a91, 0x4460a7de # PHIL-Farm Fence-SPAM White-Pasture-Par-Str3
+0x93444a91, 0x446251c6 # PHIL-Farm Fence-ALN Brown-Pasture-Par-Curve L
+0x93444a91, 0x44627acf # PHIL-Farm Fence-Misc Items-Field 2-Left-Dirt Gap
+0x93444a91, 0x545f4fe1 # PHIL-Farm Fence-ALN Brown-Field 1-Per-Diag2
+0x93444a91, 0x545f534b # PHIL-Farm Fence-ALN Brown-Field 2-Par-Str1
+0x93444a91, 0x645e6dfa # PHIL-Farm Fence-ALN Brown-Pasture-Par-Crnr
+0x93444a91, 0x645f3449 # PHIL-Farm Fence-ALN Brown-Field 1-Per-Crnr
+0x93444a91, 0x645f62c5 # PHIL-Farm Fence-ALN Brown-Field 2-Par-Diag2
+0x93444a91, 0x745f551a # PHIL-Farm Fence-ALN Brown-Field 2-Par-Str2
+0x93444a91, 0x746256ca # PHIL-Farm Fence-ALN Brown-Pasture-Par-Curve R
+0x93444a91, 0x74676728 # PHIL-Farm Fence-ALN Brown-Pasture-Par-Ext L
+0x93444a91, 0x845f0a5c # PHIL-Farm Fence-ALN Brown-Pasture-Par-Diag2
+0x93444a91, 0x845f228a # PHIL-Farm Fence-ALN Brown-Field 1-Per-Str2
+0x93444a91, 0x845f3654 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Diag1
+0x93444a91, 0x945f1ff7 # PHIL-Farm Fence-ALN Brown-Field 1-Per-Str1
+0x93444a91, 0x945f2790 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Crnr
+0x93444a91, 0x945f570d # PHIL-Farm Fence-ALN Brown-Field 2-Per-Str1
+0x93444a91, 0x9460ac17 # PHIL-Farm Fence-SPAM White-Pasture-Par-Diag1
+0x93444a91, 0x9460aee8 # PHIL-Farm Fence-SPAM White-Pasture-Par-Diag3
+0x93444a91, 0x94625cc8 # PHIL-Farm Fence-ALN Brown-Field 1-Per-Diag3
+0x93444a91, 0xa45f5ba7 # PHIL-Farm Fence-ALN Brown-Field 2-Par-Crnr
+0x93444a91, 0xa460ad52 # PHIL-Farm Fence-SPAM White-Pasture-Par-Diag2
+0x93444a91, 0xb45e74da # PHIL-Farm Fence-ALN Brown-Pasture-Par-Diag1
+0x93444a91, 0xb45f1783 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Str2
+0x93444a91, 0xb45f24b9 # PHIL-Farm Fence-ALN Brown-Field 1-Per-Str3
+0x93444a91, 0xb4624693 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Diag3
+0x93444a91, 0xb464d82f # PHIL-Farm Fence-SPAM White-Pasture-Par-Crnr Rnd
+0x93444a91, 0xb4677bfc # PHIL-Farm Fence-ALN Brown-Pasture-Par-Ext Gate Diag
+0x93444a91, 0xb469662a # PHIL-Farm Fence-ALN Brown-Pasture-Par-Ext Gate R
+0x93444a91, 0xc45e631c # PHIL-Farm Fence-ALN Brown-Pasture-Par-Str2
+0x93444a91, 0xc45f5dac # PHIL-Farm Fence-ALN Brown-Field 2-Per-Crnr
+0x93444a91, 0xd45f1323 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Str1
+0x93444a91, 0xd45f1c87 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Str3
+0x93444a91, 0xd45f4a78 # PHIL-Farm Fence-ALN Brown-Field 1-Par-Diag2
+0x93444a91, 0xd45f4c61 # PHIL-Farm Fence-ALN Brown-Field 1-Per-Diag1
+0x93444a91, 0xd45f5624 # PHIL-Farm Fence-ALN Brown-Field 2-Par-Str3
+0x93444a91, 0xd45f587c # PHIL-Farm Fence-ALN Brown-Field 2-Per-Str2
+0x93444a91, 0xd460a8ee # PHIL-Farm Fence-SPAM White-Pasture-Par-Crnr
+0x93444a91, 0xd4626ad4 # PHIL-Farm Fence-ALN Brown-Field 2-Per-Diag3
+0x93444a91, 0xe45e5b53 # PHIL-Farm Fence-ALN Brown-Pasture-Par-Str1
+0x93444a91, 0xe45e68cb # PHIL-Farm Fence-ALN Brown-Pasture-Par-Str3
+0x93444a91, 0xe45f59c2 # PHIL-Farm Fence-ALN Brown-Field 2-Per-Str3
+0x93444a91, 0xe4626241 # PHIL-Farm Fence-ALN Brown-Field 2-Par-Diag3
+0x93444a91, 0xe464b57b # PHIL-Farm Fence-ALN Brown-Pasture-Par-Curve LO
+0x93444a91, 0xe464bc26 # PHIL-Farm Fence-ALN Brown-Pasture-Par-Curve RO
