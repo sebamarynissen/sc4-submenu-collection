@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0x4880ba97 # PEG-PP_ShorePlop_Gravel
+0xe83e0437, 0x7d793ec4 # PEG-TPond_Shore-Sand2
+0xe83e0437, 0xcce2232a # PEG-TP_Ground-Ballast
+0xe83e0437, 0x28b93602 # PEG-PP_RipRap

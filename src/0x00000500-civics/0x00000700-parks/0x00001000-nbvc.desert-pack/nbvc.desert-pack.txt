@@ -1,0 +1,5 @@
+0x07bddf1c, 0x1dfda335 # NBVC_WellOpen
+0x07bddf1c, 0x7deb51c9 # NBVC_CamelCaravan
+0x07bddf1c, 0x7dec6f4a # NBVC_BedouinTent1
+0x07bddf1c, 0xbdfc63f9 # NBVC_Well
+0x07bddf1c, 0xde07d8b7 # NBVC_BedouinTent2

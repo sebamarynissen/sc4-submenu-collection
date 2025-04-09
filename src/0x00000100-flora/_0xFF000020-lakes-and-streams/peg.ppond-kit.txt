@@ -1,0 +1,5 @@
+Flora:
+0xe83e0437, 0x12f37bfb # PEG-PPOND_1x
+0xe83e0437, 0x57dea43f # PEG-PPOND_1x_Lillies
+0xe83e0437, 0x92b59d87 # PEG-PPOND_1x_1/4
+0xe83e0437, 0xf2153b9b # PEG-PPOND_1/4x_Cattails

@@ -1,0 +1,8 @@
+Flora:
+0xe83e0437, 0x82aa0000 # CP_OliveProp2_12_small
+0xe83e0437, 0x82aa0001 # CP_OliveProp2_15_medium
+0xe83e0437, 0x82aa0002 # CP_OliveProp1_14Prop_Big
+0xe83e0437, 0x82aa0003 # CP_LaurelOak_1a_91Prop
+0xe83e0437, 0x82aa0004 # CP_LaurelOak3_111 Prop
+0xe83e0437, 0x82aa0005 # CP_MediterraneanPine2_151_Prop
+0xe83e0437, 0x82aa0006 # CP_MedPineProp2_9

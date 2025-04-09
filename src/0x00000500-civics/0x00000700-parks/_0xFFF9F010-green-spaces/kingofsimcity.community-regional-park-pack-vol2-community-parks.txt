@@ -1,0 +1,5 @@
+0x163f321b, 0x37f12f84 # KOSC_RidgecrestPark
+0x163f321b, 0x57f7b721 # KOSC_QligaxCommunityPark
+0x163f321b, 0x67f626c9 # KOSC_WindmillPark
+0x163f321b, 0x97f36de8 # KOSC_MoorPark
+0x163f321b, 0xe7ef93a7 # KOSC_BreaPark

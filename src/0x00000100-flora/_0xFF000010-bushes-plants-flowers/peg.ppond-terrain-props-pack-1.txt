@@ -1,0 +1,19 @@
+Flora:
+Flora:
+0xe83e0437, 0x0a062619 # PEG-PP_Ground-Poppys
+0xe83e0437, 0x1153f533 # PEG-TP_DeadWeeds1
+0xe83e0437, 0x1153f534 # PEG-TP_DeadWeeds2
+0xe83e0437, 0x1153f535 # PEG-TP_DeadWeeds3
+0xe83e0437, 0x1153f536 # PEG-TP_DeadWeeds4
+0xe83e0437, 0x1153f537 # PEG-TP_DeadWeeds5
+0xe83e0437, 0x3658aad0 # PEG-TP_Weeds1
+0xe83e0437, 0x3658aad1 # PEG-TP_Weeds2
+0xe83e0437, 0x3658aad2 # PEG-TP_Weeds3
+0xe83e0437, 0x3658aad3 # PEG-TP_Weeds4
+0xe83e0437, 0x3658aad4 # PEG-TP_Weeds5
+0xe83e0437, 0x3763d37d # PEG-PP_Ground-VandyLions
+0xe83e0437, 0x6fc4f757 # PEG-PP_Ground-Daiseys
+0xe83e0437, 0x9e0c4310 # PEG-PP_Ground-Grass
+0xe83e0437, 0xe9220068 # PEG-PP_Ground-Clover
+0xe83e0437, 0xfa2447b0 # PEG-PP_Ground-Prairie Rose
+0xe83e0437, 0xfeb86dca # PEG-PP_Ground-Leaves

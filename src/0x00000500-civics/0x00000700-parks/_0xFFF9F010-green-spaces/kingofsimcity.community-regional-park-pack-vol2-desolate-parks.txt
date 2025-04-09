@@ -1,0 +1,2 @@
+0x163f321b, 0xa7f0cb84 # KOSC_Desolate_TennisPark_Small
+0x163f321b, 0xd7f772de # KOSC_Desolate_CommunityPark

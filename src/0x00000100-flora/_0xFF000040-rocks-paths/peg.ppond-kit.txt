@@ -1,0 +1,16 @@
+Flora:
+0xe83e0437, 0x765d44bb # PEG-PPond_Shore-Plop_Small
+0xe83e0437, 0x37a24970 # PEG-PPond_Sand
+0xe83e0437, 0x042010d4 # PEG_Rock-Plop_Small1
+0xe83e0437, 0x042010d5 # PEG_Rock-Plop_Small2
+0xe83e0437, 0x042010d6 # PEG_Rock-Plop_Small3
+0xe83e0437, 0x042010d7 # PEG_Rock-Plop_Small4
+0xe83e0437, 0x042010d8 # PEG_Rock-Plop_Small5
+0xe83e0437, 0x6c3c4e35 # PEG_Rock-Plop1
+0xe83e0437, 0x6c3c4e36 # PEG_Rock-Plop2
+0xe83e0437, 0x6c3c4e37 # PEG_Rock-Plop3
+0xe83e0437, 0x6c3c4e38 # PEG_Rock-Plop4
+0xe83e0437, 0x6c3c4e39 # PEG_Rock-Plop5
+0xe83e0437, 0x85fbb82d # PEG_Shore-Rock Cluster
+0xe83e0437, 0x8e40e142 # PEG-PPond_Shore-Plop-Pebble
+0xe83e0437, 0xfa175f2a # PEG-PPond_Shore-Plop-Moss

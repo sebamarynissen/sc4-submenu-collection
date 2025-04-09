@@ -1,0 +1,6 @@
+Flora:
+0xe83e0437, 0xb2c023b1 # PEG-TP_DeadTree1
+0xe83e0437, 0xb2c023b2 # PEG-TP_DeadTree2
+0xe83e0437, 0xb2c023b3 # PEG-TP_DeadTree3
+0xe83e0437, 0xb2c023b4 # PEG-TP_DeadTree4
+0xe83e0437, 0xb2c023b5 # PEG-TP_DeadTree5

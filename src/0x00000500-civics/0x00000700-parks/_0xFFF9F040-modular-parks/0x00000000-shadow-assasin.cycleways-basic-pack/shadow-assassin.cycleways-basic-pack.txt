@@ -1,0 +1,7 @@
+0x07bddf1c, 0x112b54f5 # aSA_Cycleway_Tee
+0x07bddf1c, 0x312b55f7 # aSA_Cycleway_DiagonalLeft
+0x07bddf1c, 0x912b54ab # aSA_Cycleway_Straight
+0x07bddf1c, 0x912b557d # aSA_Cyclewayv2_Diagonal
+0x07bddf1c, 0x912b55d8 # aSA_Cycleway_DiagonalRight
+0x07bddf1c, 0xd12b5525 # aSA_Cycleway_Xing
+0x07bddf1c, 0xf12b554d # aSA_Cycleway_StreetTransition
