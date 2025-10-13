@@ -1,0 +1,67 @@
+0x07bddf1c, 0x14edd155 # Scoty_FPH_S-Track_Straight
+0x07bddf1c, 0x14edd5f1 # Scoty_FPH_S-Track_Ortho_Right_Diag
+0x07bddf1c, 0x24ed77d0 # Scoty_FPH_S-Track_transit
+0x07bddf1c, 0x34edd395 # Scoty_FPH_S-Track_Curve
+0x07bddf1c, 0x54edda26 # Scoty_FPH_S-Track_Diag_Right_End
+0x07bddf1c, 0x64eddc20 # Scoty_FPH_S-Track_Diag_Left_End
+0x07bddf1c, 0x94edd6f0 # Scoty_FPH_S-Track_Ortho_Left_Diag
+0x07bddf1c, 0xa4eddce7 # Scoty_FPH_S-Track_End
+0x07bddf1c, 0xb4edd48c # Scoty_FPH_S-Track_Diag
+0x07bddf1c, 0xd4edd89a # Scoty_FPH_S-Track_Diag_Corner
+0x56bc7155, 0x0c94ac36 # scoty_FPH_T
+0x56bc7155, 0x0c9d8870 # scoty_FPH_diag_on_field
+0x56bc7155, 0x0c9d8bcc # scoty_FPH_diag_left-end_on_field
+0x56bc7155, 0x0c9d95fb # scoty_FPH_diag_right-end_on_field
+0x56bc7155, 0x1c94b39f # scoty_FPH_ortho_to_right-diag
+0x56bc7155, 0x2c9498af # scoty_FPH_curve
+0x56bc7155, 0x2c9db79e # scoty_FPH_street_T_junction
+0x56bc7155, 0x2ca1c08a # scoty_FPH_street_right_diag
+0x56bc7155, 0x3c949511 # scoty_FPH_straight_x3
+0x56bc7155, 0x3c94af2c # scoty_FPH_diag
+0x56bc7155, 0x3c95d0a1 # scoty_FPH_end_fence
+0x56bc7155, 0x3c9df200 # scoty_FPH_straight
+0x56bc7155, 0x3ca09c48 # scoty_FPH_end_farm
+0x56bc7155, 0x44ecac06 # Scoty_FPH_Diag-left_x_straight
+0x56bc7155, 0x4c9ce685 # scoty_FPH_Y_crossing
+0x56bc7155, 0x64ed5eed # scoty_FPH_road_T_junction
+0x56bc7155, 0x6c959ad7 # scoty_FPH_street_junction
+0x56bc7155, 0x6ca09e55 # scoty_FPH_right_end_farm
+0x56bc7155, 0x7c90be86 # scoty_FPH_straight
+0x56bc7155, 0x84b86194 # scoty_FPH_end_fence
+0x56bc7155, 0x8c9ceb3f # scoty_FPH_diag_left_end
+0x56bc7155, 0x8ca1bb32 # scoty_FPH_street_left_diag
+0x56bc7155, 0x94ecade6 # Scoty_FPH_Diag-left_x_straight
+0x56bc7155, 0x9c949b49 # scoty_FPH_curve_inner_field
+0x56bc7155, 0x9c94b147 # scoty_FPH_ortho_to_left-diag
+0x56bc7155, 0x9c94b5ba # scoty_FPH_end
+0x56bc7155, 0x9c9ca200 # scoty_FPH_diag_corner
+0x56bc7155, 0x9c9ca3c9 # scoty_FPH_half_diag_crossing
+0x56bc7155, 0x9ca0a045 # scoty_FPH_left_end_farm
+0x56bc7155, 0xac949d1d # scoty_FPH_cross
+0x56bc7155, 0xac94b7ee # scoty_FPH_end_360
+0x56bc7155, 0xbc9ce82c # scoty_FPH_diag_right_end
+0x56bc7155, 0xbc9d8a1e # scoty_FPH_diag-T_on_field
+0x56bc7155, 0xc4ed6bcf # scoty_FPH_road_junction
+0x56bc7155, 0xcc9dc08c # scoty_FPH_street_field_jct
+0x56bc7155, 0xcca1b8e1 # scoty_FPH_street_end_fence
+0x56bc7155, 0xec9db95e # scoty_FPH_street_right_jct
+0x93444a91, 0x048f65b6 # PHIL-Paths-Fieldpaths-Cross
+0x93444a91, 0x048f6c92 # PHIL-Paths-Fieldpaths-Diag T L
+0x93444a91, 0x148f6bcd # PHIL-Paths-Fieldpaths-Diag Strt R
+0x93444a91, 0x148f71e4 # PHIL-Paths-Fieldpaths-Diag Cross
+0x93444a91, 0x448f64c6 # PHIL-Paths-Fieldpaths-Corner
+0x93444a91, 0x448f70fa # PHIL-Paths-Fieldpaths-Diag T R
+0x93444a91, 0x44d3e9dc # scoty_FPH_street_end_fence_pasture_Gravel
+0x93444a91, 0x548f621b # PHIL-Paths-Fieldpaths-Str2x1
+0x93444a91, 0x54d3ed24 # scoty_FPH_street_junction_Dirt
+0x93444a91, 0x648f7411 # PHIL-Paths-Fieldpaths-Y Split
+0x93444a91, 0x64d3e81b # scoty_FPH_street_end_fence_pasture_Dirt
+0x93444a91, 0x948f6744 # PHIL-Paths-Fieldpaths-T
+0x93444a91, 0xa489b5e9 # scoty_FPH_street_end_fence_pasture
+0x93444a91, 0xa48f69de # PHIL-Paths-Fieldpaths-Diag
+0x93444a91, 0xa48f6b02 # PHIL-Paths-Fieldpaths-Diag Strt L
+0x93444a91, 0xd48f6338 # PHIL-Paths-Fieldpaths-Str3x1
+0x93444a91, 0xd48f67fc # PHIL-Paths-Fieldpaths-End
+0x93444a91, 0xd48f6910 # PHIL-Paths-Fieldpaths-End 360
+0x93444a91, 0xe48f5fc6 # PHIL-Paths-Fieldpaths-Str1
+0x93444a91, 0xe4d3ee4b # scoty_FPH_street_junction_Gravel
