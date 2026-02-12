@@ -1,0 +1,6 @@
+0x163f321b, 0x37f8ef67 # KOSC_BaseballField_45_$$
+0x163f321b, 0x77fdf159 # KOSC_BaseballField_$$$
+0x163f321b, 0x8800fde9 # KOSC_BaseballField_45_$$$
+0x163f321b, 0xc7fb140b # KOSC_BaseballField_$$
+0x163f321b, 0xc801aaee # KOSC_BaseballField_45_$
+0x163f321b, 0xd7fe100c # KOSC_BaseballField_$

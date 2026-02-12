@@ -1,0 +1,6 @@
+0x163f321b, 0x17e0d0cb # KOSC_RoyalTrails_StraightLong4Way
+0x163f321b, 0x27e251c4 # KOSC_RoyalTrails_4Way
+0x163f321b, 0x37f5b6ad # KOSC_RoyalTrails_Corner
+0x163f321b, 0x57f4a334 # KOSC_RoyalTrails_CornerEntrance
+0x163f321b, 0x77fd01eb # KOSC_RoyalTrails_CentralPark
+0x163f321b, 0xe7e23055 # KOSC_RoyalTrails_StraightLong

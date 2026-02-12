@@ -1,0 +1,4 @@
+0x163f321b, 0x37f1f09c # KOSC_TennisPark_Large_Desert
+0x163f321b, 0x87f0e908 # KOSC_TennisPark_Small
+0x163f321b, 0x97fbc6ac # KOSC_TennisPark_Medium
+0x163f321b, 0xc7f1328f # KOSC_TennisPark_Large

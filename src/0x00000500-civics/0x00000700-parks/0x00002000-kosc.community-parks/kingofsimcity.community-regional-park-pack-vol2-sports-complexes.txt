@@ -1,0 +1,3 @@
+0x163f321b, 0x87fa34c4 # KOSC_TobyFerrianSportsComplex_North
+0x163f321b, 0x9805c1db # KOSC_MalerkeySportsComplex
+0x163f321b, 0xb7fb4727 # KOSC_InfinityTrackField
