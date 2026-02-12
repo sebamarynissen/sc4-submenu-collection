@@ -1,0 +1,3 @@
+0x27d79b48, 0x4bf00f70 # RR Simtropolis Shops Right
+0x27d79b48, 0x6bf00f3a # RR Simtropolis Shops Strip Mall Small
+0x27d79b48, 0x6bf14cdc # RR Simtropolis Shops Target

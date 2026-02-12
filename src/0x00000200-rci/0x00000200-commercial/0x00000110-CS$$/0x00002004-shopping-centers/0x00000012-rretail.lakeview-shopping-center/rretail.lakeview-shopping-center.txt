@@ -1,0 +1,4 @@
+0x27d79b48, 0x7014eb5d # RR Lakeview Shop Left Lot Box v2
+0x27d79b48, 0xb014eaef # RR Lakeview Shop Right Lot Box v2
+0x27d79b48, 0xb014eb1d # RR Lakeview Shop Ext Lot Box v2
+0x27d79b48, 0xd02f658e # RR Lakeview Shop Center Lot Box v2

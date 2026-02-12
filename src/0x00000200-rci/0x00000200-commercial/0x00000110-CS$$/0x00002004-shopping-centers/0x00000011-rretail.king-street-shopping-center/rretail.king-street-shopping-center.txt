@@ -1,0 +1,3 @@
+0x27d79b48, 0x0a436c14 # RR King Street Shopping Center Right
+0x27d79b48, 0x2a470878 # RR King Street Shopping Center Left
+0x27d79b48, 0x2a48a4fe # RR King Street Shopping Center Corner Ext.

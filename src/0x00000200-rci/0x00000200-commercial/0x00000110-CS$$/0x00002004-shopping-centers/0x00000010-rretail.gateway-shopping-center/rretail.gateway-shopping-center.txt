@@ -1,0 +1,15 @@
+0x27d79b48, 0x10c88c86 # RR Gateway Shopping Center Lot F
+0x27d79b48, 0x10c98f2f # RR Gateway Shopping Center Lot E
+0x27d79b48, 0x10c9b919 # RR Gateway Shopping Center Lot L
+0x27d79b48, 0x10c9ba5c # RR Gateway Shopping Center Lot N Concrete Filler
+0x27d79b48, 0x30c9b7a8 # RR Gateway Shopping Center Lot J
+0x27d79b48, 0x30c9b852 # RR Gateway Shopping Center Lot K
+0x27d79b48, 0x70c886da # RR Gateway Shopping Center Lot B
+0x27d79b48, 0x70c888f1 # RR Gateway Shopping Center Lot C
+0x27d79b48, 0x70c9b530 # RR Gateway Shopping Center Lot H
+0x27d79b48, 0x70c9b68d # RR Gateway Shopping Center Lot I
+0x27d79b48, 0x90c887aa # RR Gateway Shopping Center Lot A
+0x27d79b48, 0xb0c889cc # RR Gateway Shopping Center Lot D
+0x27d79b48, 0xb0c9b9e2 # RR Gateway Shopping Center Lot M
+0x27d79b48, 0xb0c9bae8 # RR Gateway Shopping Center Lot O Sidewalk Filler
+0x27d79b48, 0xd0c88d6f # RR Gateway Shopping Center Lot G

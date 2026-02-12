@@ -1,0 +1,3 @@
+0x27d79b48, 0x0ccd5161 # RR Union Square Plaza C
+0x27d79b48, 0x2cccfa0c # RR Union Square Plaza B
+0x27d79b48, 0x2ccd2967 # RR Union Square Plaza A

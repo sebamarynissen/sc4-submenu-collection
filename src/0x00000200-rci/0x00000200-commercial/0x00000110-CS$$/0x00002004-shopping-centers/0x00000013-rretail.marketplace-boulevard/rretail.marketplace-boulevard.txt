@@ -1,0 +1,5 @@
+0x27d79b48, 0x2ae2a398 # RR Marketplace Blvd Shops Ext
+0x27d79b48, 0x2ae2b39b # RR Marketplace Blvd Upper Right
+0x27d79b48, 0x6ae28ccd # RR Marketplace Blvd Bottom Left
+0x27d79b48, 0x6ae29a6a # RR Marketplace Blvd Upper Left
+0x27d79b48, 0x8ae29173 # RR Marketplace Blvd Bottom Right

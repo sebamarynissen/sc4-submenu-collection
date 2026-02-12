@@ -1,0 +1,4 @@
+0x27d79b48, 0x2a854cb5 # RR Southside Shops Right 9x12
+0x27d79b48, 0x8a8a9eb7 # RR Southside Shops Left 5x7
+0x27d79b48, 0xaa85453e # RR Southside Shops Corner 2x2
+0x27d79b48, 0xea8543fd # RR Southside Shops Corner 1x1
