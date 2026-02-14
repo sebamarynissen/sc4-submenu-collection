@@ -1,0 +1,17 @@
+0x953de453, 0x05001054 # Heretic Slope Side Wall 1x1 Outer Corner END with Trees 01
+0x953de453, 0x05001135 # Heretic Slope Side Wall 1x1 Path Outer Corner Left with Trees
+0x953de453, 0x05001179 # Heretic Slope Side Wall 2x1 Path END with Trees 01
+0x953de453, 0x05001dde # Heretic Slope Side Wall 1x1 Path Bridge
+0x953de453, 0x25001171 # Heretic Slope Side Wall 1x1 Trees
+0x953de453, 0x252650ba # Heretic Slope Side Wall 2x1 Path with Bridge Double
+0x953de453, 0x252650d8 # Heretic Slope Side Wall 1x1 Path with Bridge Other Side
+0x953de453, 0x45001150 # Heretic Slope Side Wall 1x1 Path Outer Corner with Trees Right
+0x953de453, 0x4502bba8 # Heretic Slope Side Wall 1x1 Path TEE
+0x953de453, 0x653f919f # Heretic Slope Side Wall 1x1 Inner Corner with Trees
+0x953de453, 0xa5001165 # Heretic Slope Side Wall 1x1 Path with Tree
+0x953de453, 0xa5001181 # Heretic Slope Side Wall 2x1 Path END with Trees 02
+0x953de453, 0xc500107d # Heretic Slope Side Wall 1x1 Outer Corner END with Trees 02
+0x953de453, 0xc50010d1 # Heretic Slope Side Wall 1x1 Path Inner Corner with Trees
+0x953de453, 0xc5001189 # Heretic Slope Side Wall 3x1 Path with Trees
+0x953de453, 0xe50011ab # Heretic Slope Side Wall 3x1 Trees
+0x953de453, 0xe527548f # Heretic Slope Side Wall 1x1 Path Cross
