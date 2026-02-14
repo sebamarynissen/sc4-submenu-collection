@@ -1,0 +1,4 @@
+0x163f321b, 0x27ecf0a3 # KOSC_CitySquarePark
+0x908cd9d2, 0x52e741f3 # KOSC_ShadyExecutivePlaza
+0x908cd9d2, 0x639280c2 # KOSC_UrbanGreen
+0x908cd9d2, 0x82e3fd3b # KOSC_BigTreeDiagonalPlaza
